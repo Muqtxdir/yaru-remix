@@ -28,11 +28,12 @@ The following screenshots showcase Yaru-blue:
 
 
 ## Installation:
- 1. Install GNOME Tweaks `sudo apt install gnome-tweaks`
- 2. Install the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension.
- 3. Copy all contents of Themes folder to `~/.themes`
- 4. Copy all contents of Icons Folder to `~/.icons`
- 5. The theme can now be selected by using GNOME Tweaks
+ 1. Clone or Download `yaru-blue.zip` from master-branch
+ 2. Install GNOME Tweaks `sudo apt install gnome-tweaks`
+ 3. Install the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension.
+ 4. Copy all contents of Themes folder to `~/.themes`
+ 5. Copy all contents of Icons Folder to `~/.icons`
+ 6. The theme can now be selected by using GNOME Tweaks
  
  That's it! You should now have the new theme applied to applications, the gnome-shell (dock etc.).
 
