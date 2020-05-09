@@ -1,4 +1,4 @@
-#Yaru-blue
+## Yaru-blue
 
 This repository contains a modified Yaru theme. The idea for this project came from using the [Yaru-Colors](https://github.com/Jannomag/Yaru-Colors) project.
 
@@ -9,7 +9,7 @@ Yaru-blue theme contains the following:
 - Gnome-Shell theme (light,standard,dark)
 - Yaru icons
 
-##Screenshots
+## Screenshots
 The following screenshots showcase Yaru-blue:
 
 **Yaru-blue (Light):**
@@ -27,9 +27,9 @@ The following screenshots showcase Yaru-blue:
 ![Overview-dark](Screenshots/Overview-dark.png)
 
 
-#Installation:
+## Installation:
  1. Install GNOME Tweaks `sudo apt install gnome-tweaks`
- 2. Install 
+ 2. Install the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension.
  3. Copy all contents of Themes folder to `~/.themes`
  4. Copy all contents of Icons Folder to `~/.icons`
  5. The theme can now be selected by using GNOME Tweaks
