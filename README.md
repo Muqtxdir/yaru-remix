@@ -1,6 +1,7 @@
 ## Yaru-blue
 
 Yaru-blue is a modified [Yaru](https://github.com/ubuntu/yaru) theme.
+
 Based on the project [Yaru-Colors](https://github.com/Jannomag/Yaru-Colors).
 
 Yaru-blue theme contains the following:
@@ -10,14 +11,22 @@ Yaru-blue theme contains the following:
 
 ## Screenshots
 **Yaru-blue (Light):**
+
 ![Desktop-light](Screenshots/Desktop-light.png)
 
 ![Overview-light](Screenshots/Overview-light.png)
 
-**Yaru-blue (dark)**
+**Yaru-blue (dark):**
+
 ![Desktop-dark](Screenshots/Desktop-dark.png)
 
 ![Overview-dark](Screenshots/Overview-dark.png)
+
+**Yaru-blue (standard):**
+
+![Desktop](Screenshots/Desktop.png)
+
+![Overview](Screenshots/Overview.png)
 
 
 ## Installation:
