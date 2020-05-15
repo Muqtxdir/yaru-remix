@@ -10,14 +10,14 @@ Yaru-blue theme contains the following:
 
 ## Screenshots
 **Yaru-blue (Light):**
-![Desktop-light](Screenshots/Desktop-light.jpeg)
+![Desktop-light](Screenshots/Desktop-light.png)
 
-![Overview-light](Screenshots/Overview-light.jpeg)
+![Overview-light](Screenshots/Overview-light.png)
 
 **Yaru-blue (dark)**
-![Desktop-dark](Screenshots/Desktop-dark.jpeg)
+![Desktop-dark](Screenshots/Desktop-dark.png)
 
-![Overview-dark](Screenshots/Overview-dark.jpeg)
+![Overview-dark](Screenshots/Overview-dark.png)
 
 
 ## Installation:
