@@ -1141,7 +1141,7 @@ StScrollBar {
 
 /* Top Bar */
 #panel {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(201, 201, 201, 0.95);
   font-weight: bold;
   height: 1.86em;
   font-feature-settings: "tnum"; }
@@ -1215,7 +1215,7 @@ StScrollBar {
 /* OVERVIEW */
 #overview {
   spacing: 24px;
-  background-color: rgba(241, 241, 241, 0.665); }
+  background-color: rgba(201, 201, 201, 0.665); }
 
 .overview-controls {
   padding-bottom: 32px; }

@@ -1213,7 +1213,7 @@ StScrollBar {
 /* OVERVIEW */
 #overview {
   spacing: 24px;
-  background-color: transparent; }
+  background-color: rgba(61, 61, 61, 0.665); }
 
 .overview-controls {
   padding-bottom: 32px; }
@@ -1263,7 +1263,7 @@ StScrollBar {
   padding: 7px 9px;
   border-radius: 18px;
   color: rgba(247, 247, 247, 0.7);
-  background-color: #3e3e3e;
+  background-color: rgba(0, 0, 0, 0.665);
   border-color: #272727; }
   
   .search-entry:hover {
@@ -1294,12 +1294,12 @@ StScrollBar {
     background-color: transparent; }
 
 .search-section-content {
-  background-color: rgba(42, 42, 42, 0.775);
+  background-color: rgba(0, 0, 0, 0.775);
   border-radius: 9px;
   border: 1px solid rgba(255, 255, 255, 0.16);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
   text-shadow: 0 1px rgba(0, 0, 0, 0.2);
-  color: #eeeeec;
+  color: #ffffff;
   padding: 18px;
   spacing: 8px; }
 
@@ -1315,7 +1315,7 @@ StScrollBar {
   .search-provider-icon .list-search-provider-content .list-search-provider-details {
     width: 120px;
     margin-top: 0;
-    color: #dbdbd6; }
+    color: #f7f7f7; }
 
 .list-search-results {
   spacing: 6px; }
