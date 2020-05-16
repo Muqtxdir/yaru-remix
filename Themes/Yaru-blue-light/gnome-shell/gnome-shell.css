@@ -1310,7 +1310,7 @@ StScrollBar {
   transition-duration: 200ms; }
 
 .list-search-result:active, .search-provider-icon:active, .list-search-result:checked, .search-provider-icon:checked {
-  background-color: rgba(4, 4, 4, 0.875); }
+  background-color: rgba(48, 48, 47, 0.275); }
 
 .search-provider-icon .list-search-provider-content {
   spacing: 12px; }
