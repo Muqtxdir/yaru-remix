@@ -12,22 +12,15 @@ Yaru-blue theme contains the following:
 ## Screenshots
 **Yaru-blue (Light):**
 
-![Desktop-light](Screenshots/Desktop-light.png)
-
-![Overview-light](Screenshots/Overview-light.png)
+![light](Screenshots/light.png)
 
 **Yaru-blue (dark):**
 
-![Desktop-dark](Screenshots/Desktop-dark.png)
-
-![Overview-dark](Screenshots/Overview-dark.png)
+![dark](Screenshots/dark.png)
 
 **Yaru-blue (standard):**
 
-![Desktop](Screenshots/Desktop.png)
-
-![Overview](Screenshots/Overview.png)
-
+![standard](Screenshots/standard.png)
 
 ## Installation:
  1. Clone or Download `yaru-blue.zip` from master-branch
