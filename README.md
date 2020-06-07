@@ -1,5 +1,6 @@
 ## Yaru-blue
 Yaru-blue is a blue variant of [Yaru](https://github.com/ubuntu/yaru) theme.
+
 Yaru-blue includes:
 - GTK3 theme
 - Gnome-Shell theme
@@ -8,13 +9,13 @@ Yaru-blue includes:
 
 ## Screenshots
 **Yaru-blue (Light):**
-![light](Screenshots/light.png)
+![light](Screenshots/light.jpeg?raw=true)
 
 **Yaru-blue (dark):**
-![dark](Screenshots/dark.png)
+![dark](Screenshots/dark.jpeg?raw=true)
 
 **Yaru-blue (standard):**
-![standard](Screenshots/standard.png)
+![standard](Screenshots/standard.jpeg?raw=true)
 
 ## Installation:
  1. Clone or Download `yaru-blue.zip` from master-branch
