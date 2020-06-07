@@ -1367,6 +1367,10 @@ StScrollBar {
     spacing: 6px; }
 
 /* App Folders */
+.app-well-app.app-folder {
+  background-color: rgba(29, 29, 29, 0.175);
+  border-radius: 8px; }
+
 .app-folder-dialog {
   border-radius: 9px;
   border: 1px solid rgba(255, 255, 255, 0.16);
@@ -1391,8 +1395,6 @@ StScrollBar {
       border-radius: 18px; }
       .app-folder-dialog .folder-name-container .edit-folder-button > StIcon {
         icon-size: 16px; }
-  .app-folder-dialog StButton#vhandle, .app-folder-dialog StButton#vhandle:hover, .app-folder-dialog StButton#vhandle:active {
-    background-color: transparent; }
 
 .app-folder-dialog-container {
   padding: 12px;
