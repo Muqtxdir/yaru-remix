@@ -8,7 +8,7 @@ Yaru-blue theme contains the following:
 - GTK 2 / 3 theme (light,standard,dark)
 - Gnome-Shell theme (light,standard,dark)
 - Yaru icons
-- Ubuntu Dock
+- Ubuntu Dock and indicators
 
 ## Screenshots
 **Yaru-blue (Light):**
