@@ -9,13 +9,13 @@ Yaru-blue includes:
 
 ## Screenshots
 **Yaru-blue (Light):**
-![light](Screenshots/light.jpeg?raw=true)
+![light](Screenshots/light.png)
 
 **Yaru-blue (dark):**
-![dark](Screenshots/dark.jpeg?raw=true)
+![dark](Screenshots/dark.png)
 
 **Yaru-blue (standard):**
-![standard](Screenshots/standard.jpeg?raw=true)
+![standard](Screenshots/standard.png)
 
 ## Installation:
  1. Clone or Download `yaru-blue.zip` from master-branch
