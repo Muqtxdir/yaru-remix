@@ -18,7 +18,7 @@ Yaru-blue includes:
 ![standard](Screenshots/standard.png)
 
 ## Installation:
- 1. Download `Yaru-blue-20.04.7.tar.xz` from [here](https://github.com/Muqtxdir/yaru-blue/releases/Yaru-blue-20.04.7.tar.xz)
+ 1. Download `Yaru-blue-20.04.7.tar.xz` from [here](https://github.com/Muqtxdir/yaru-blue/releases/download/v20.04.7/Yaru-blue-20.04.7.tar.xz) 
  2. Install **Tweaks** `sudo apt install gnome-tweaks`
  3. Install the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension.
  4. Copy all contents of Themes folder to `~/.themes`
