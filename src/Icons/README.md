@@ -1,6 +1,6 @@
 ## Creating & Modifying Icons
 
-All Suru assets are created using the free and open source vector graphics editor [Inkscape](http://inkscape.org), which is recommended for creating new icons or modifying existing ones.
+All Yaru-blue assets are created using the free and open source vector graphics editor [Inkscape](http://inkscape.org), which is recommended for creating new icons or modifying existing ones.
 
 While other tools exist that are suitable for SVG editing, they often add custom elements to extend the limitatations of standard SVG format, so they are not recommended.
 
@@ -11,8 +11,6 @@ Use of file names in line with the [FreeDesktop.Org Icon Naming Specification](h
 ## Focus
 
 The Ubuntu desktop is the target for this icon set. As such, Suru development is currently focused the GNOME desktop, and providing the minimum required set of icons for that experience.
-
-Changes regarding other desktop environments (such as MATE or KDE) are not currently a priority but pull requests or issues regarding those desktops will be reviewed as they come.
 
 ## "Third-Party" Icons
 
