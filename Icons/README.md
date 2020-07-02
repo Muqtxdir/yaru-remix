@@ -23,3 +23,11 @@ That said, if you are a third-party developer would like to be cohesive with thi
 ## Adding Icons
 
 New [fullcolor icons](Yaru-blue-light-src/fullcolor) (those for applications, etc.) must be created from a template found in the source files or simply be based off of a pre-existing source file. See the [fullcolor README](Yaru-blue-light-src/fullcolor/README.md) for more details and new [symbolic icons](Yaru-blue-light-src/scalable) icons must be added to the source plate SVG found in the source files. See the [symbolic README](Yaru-blue-light-src/scalable/README.md) for more details.
+
+### Useful one-liners for icon theme contributors
+```bash
+# Additionally installs packages needed to work on the icon theme
+sudo apt install libgtk-3-dev git meson sassc inkscape optipng ruby
+```
+
+
