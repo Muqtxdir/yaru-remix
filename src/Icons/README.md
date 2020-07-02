@@ -1,6 +1,6 @@
 ## Creating & Modifying Icons
 
-All Yaru-blue assets are created using the free and open source vector graphics editor [Inkscape](http://inkscape.org), which is recommended for creating new icons or modifying existing ones.
+All assets are created using the free and open source vector graphics editor [Inkscape](http://inkscape.org), which is recommended for creating new icons or modifying existing ones.
 
 While other tools exist that are suitable for SVG editing, they often add custom elements to extend the limitatations of standard SVG format, so they are not recommended.
 
@@ -22,4 +22,4 @@ That said, if you are a third-party developer would like to be cohesive with thi
 
 ## Adding Icons
 
-New [fullcolor icons](src/fullcolor) (those for applications, etc.) must be created from a template found in the source files or simply be based off of a pre-existing source file. See the [fullcolor README](src/fullcolor/README.md) for more details and new [symbolic icons](src/scalable) icons must be added to the source plate SVG found in the source files. See the [symbolic README](src/scalable/README.md) for more details.
+New [fullcolor icons](Yaru-blue-light-src/fullcolor) (those for applications, etc.) must be created from a template found in the source files or simply be based off of a pre-existing source file. See the [fullcolor README](Yaru-blue-light-src/fullcolor/README.md) for more details and new [symbolic icons](Yaru-blue-light-src/scalable) icons must be added to the source plate SVG found in the source files. See the [symbolic README](Yaru-blue-light-src/scalable/README.md) for more details.
