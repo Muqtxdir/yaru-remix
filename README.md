@@ -1,13 +1,13 @@
-## Yaru-blue
+### Yaru-blue
 Yaru-blue is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
 
 Yaru-blue includes:
 - GTK3 theme
-- Gnome-Shell theme
+- gnome-Shell theme
 - Ubuntu-Dock theme (indicators)
 - Yaru-blue icons
 
-## Installation:
+### Installation:
  1. Install **Tweaks**:
 ```
 sudo apt install gnome-tweaks
@@ -24,14 +24,16 @@ sudo apt install gnome-tweaks
  
 *Note: Yaru-blue theme does not work with Snap and Flatpak apps*
 
-## Screenshots
-**Yaru-blue (Light):**
-![light](Screenshots/light.png)
+### Screenshots
+**Light:**
+![light](icons/Screenshots/light.png)
 
-**Yaru-blue (dark):**
-![dark](Screenshots/dark.png)
+**Standard:**
+![standard](icons/Screenshots/standard.png)
 
-**Yaru-blue (standard):**
-![standard](Screenshots/standard.png)
+**Dark:**
+![dark](icons/Screenshots/dark.png)
+
+
 
 
