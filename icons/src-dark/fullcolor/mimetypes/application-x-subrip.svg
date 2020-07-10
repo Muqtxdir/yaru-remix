@@ -13,7 +13,7 @@
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="application-x-subrip.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
    sodipodi:version="0.32"
    id="svg11300"
    height="300"
@@ -50,8 +50,8 @@
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="g942"
-     inkscape:cy="137.55377"
+     inkscape:current-layer="layer7"
+     inkscape:cy="98.911578"
      inkscape:cx="148.50432"
      inkscape:zoom="2"
      inkscape:pageshadow="2"
@@ -407,7 +407,7 @@
            sodipodi:role="line"
            x="19.006836"
            y="-8.2548828"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">mimetypes</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000">mimetypes</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
@@ -419,7 +419,7 @@
            sodipodi:role="line"
            x="146.48828"
            y="-8.2548828"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">application-x-subrip</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000">application-x-subrip</tspan><tspan
            id="tspan146"
            sodipodi:role="line"
            x="146.48828"
