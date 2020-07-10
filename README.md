@@ -12,9 +12,9 @@ Yaru-blue includes:
 ```
 sudo apt install gnome-tweaks
 ```
- 2. Install the [User Themes](https://extensions.gnome.org/extension/19/user-themes/) extension.
+ 2. Install the User-themes extension from [here](https://extensions.gnome.org/extension/19/user-themes/).
  
- 3.  Download `Yaru-blue` from [here](https://github.com/Muqtxdir/yaru-blue/releases/download/v20.04.7/Yaru-blue-20.04.7.tar.xz) 
+ 3.  Download `Yaru-blue` from [here](https://github.com/Muqtxdir/yaru-blue/releases/download/v20.04/Yaru-blue-20.04.tar.xz) 
  
  4. Copy contents of *Themes folder* to `~/.themes` or `/usr/share/themes`
  
