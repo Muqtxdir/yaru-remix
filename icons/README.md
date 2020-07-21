@@ -2,14 +2,7 @@
 
 You can build and install Yaru-blue icons from source using Meson.
 
-### Install:
-
-```bash
-# build
-meson "build" --prefix=/usr
-# install
-sudo ninja -C "build" install
-```
+### Apply:
 
 By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`.
 
@@ -30,17 +23,7 @@ gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue-dark"
 gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue-light"
 ```
 
-### Uninstall:
-
-To uninstall all Yaru-blue icon-themes, simply run the following.
-
-*Note: If you installed it without superuser priveleges just omit the  `sudo`.*
-
-```bash
-sudo ninja -C "build" uninstall
-```
-
-Once uninstalled you can reset your icon theme to the default setting by running the following.
+### Revert:
 
 ```bash
 # reset icon theme to default
@@ -57,4 +40,4 @@ Included scripts are free software licenced under the terms of the [GNU General 
 
 ## Contributing
 
-Contributions are obviously welcome! If you would like to contribute to this project, please [read this](/CONTRIBUTING.md) regarding contributions.
+Contributions are obviously welcome! If you would like to contribute to this project, please [read this](CONTRIBUTING.md) regarding contributions.

@@ -1,0 +1,11 @@
+Build started at 2020-07-22T02:23:10.643377
+Main binary: /usr/bin/python3
+Build Options: -Dprefix=/usr
+Python system: Linux
+The Meson build system
+Version: 0.53.2
+Source dir: /home/muqtadir/yaru-blue/icons
+Build dir: /home/muqtadir/yaru-blue/icons/build
+Build type: native build
+
+ERROR: First statement must be a call to project
