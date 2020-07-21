@@ -1,33 +1,60 @@
-## Creating & Modifying Icons
+### Yaru-blue icons
 
-All assets are created using the free and open source vector graphics editor [Inkscape](http://inkscape.org), which is recommended for creating new icons or modifying existing ones.
+You can build and install Yaru-blue icons from source using Meson.
 
-While other tools exist that are suitable for SVG editing, they often add custom elements to extend the limitatations of standard SVG format, so they are not recommended.
+### Install:
 
-## Icon Names
-
-Use of file names in line with the [FreeDesktop.Org Icon Naming Specification](http://standards.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html) is encouraged for new icons. Failing that, when possible use generic file names and create symbolic links to the generic icon.
-
-## Focus
-
-The Ubuntu desktop is the target for this icon set. As such, Suru development is currently focused the GNOME desktop, and providing the minimum required set of icons for that experience.
-
-## "Third-Party" Icons
-
-The Suru icon set is not a "universal" set and **will not attempt to supply icons for "third-party" applications**. A "third-party" application is any application that is non-generic and has it's own branding, e.g. Mozilla Firefox or Inkscape.
-
-It is key that this project to not infringe on the brands of other projects as it is intended to be eventually used at the vendor-level.  So pull requests to add icons or symbolic links that would overwrite the branding of third-party apps **will be rejected.**
-
-That said, if you are a third-party developer would like to be cohesive with this icon set by providing a Suru-styled icon in their app, don't hesistate to reach out for assistance, if need be.
-
-## Adding Icons
-
-New [fullcolor icons](Yaru-blue-light-src/fullcolor) (those for applications, etc.) must be created from a template found in the source files or simply be based off of a pre-existing source file. See the [fullcolor README](Yaru-blue-light-src/fullcolor/README.md) for more details and new [symbolic icons](Yaru-blue-light-src/scalable) icons must be added to the source plate SVG found in the source files. See the [symbolic README](Yaru-blue-light-src/scalable/README.md) for more details.
-
-### Useful one-liners for icon theme contributors
 ```bash
-# Additionally installs packages needed to work on the icon theme
-sudo apt install libgtk-3-dev git meson sassc inkscape optipng ruby
+# build
+meson "build" --prefix=/usr
+# install
+sudo ninja -C "build" install
 ```
 
+By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`.
 
+After which you should be able to pick any variant of **Yaru-blue** as your icon theme in **GNOME-Tweaks**, or you can set either from a terminal with:
+
+```bash
+# set the icon theme as Yaru-blue
+gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue"
+```
+
+```bash
+# set the icon theme as Yaru-blue-dark
+gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue-dark"
+```
+
+```bash
+# set the icon theme as Yaru-blue-light
+gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue-light"
+```
+
+### Uninstall:
+
+To uninstall all Yaru-blue icon-themes, simply run the following.
+
+*Note: If you installed it without superuser priveleges just omit the  `sudo`.*
+
+```bash
+sudo ninja -C "build" uninstall
+```
+
+Once uninstalled you can reset your icon theme to the default setting by running the following.
+
+```bash
+# reset icon theme to default
+gsettings reset org.gnome.desktop.interface icon-theme
+
+```
+### Copying or Reusing
+
+This project has mixed licencing. You are free to copy, redistribute and/or modify aspects of this work under the terms of each licence accordingly (unless otherwise specified).
+
+The Suru icon assets (any and all source `.svg` files or rendered `.png` files) are licenced under the terms of the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+Included scripts are free software licenced under the terms of the [GNU General Public License, version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
+
+## Contributing
+
+Contributions are obviously welcome! If you would like to contribute to this project, please [read this](/CONTRIBUTING.md) regarding contributions.

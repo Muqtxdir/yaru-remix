@@ -7,7 +7,7 @@ Yaru-blue includes:
 - Ubuntu-Dock theme (indicators)
 - Yaru-blue icons
 
-### Installation:
+### Installation (default):
  1. Install **Tweaks**:
 ```
 sudo apt install gnome-tweaks
@@ -24,15 +24,18 @@ sudo apt install gnome-tweaks
  
 *Note: Yaru-blue theme does not work with Snap and Flatpak apps*
 
+### Installation (source):
+If you would like to build from master, please follow instructions from [here](source.md).
+
 ### Screenshots
 **Light:**
-![light](icons/Screenshots/light.png)
+![light](screenshots/light.png)
 
 **Standard:**
-![standard](icons/Screenshots/standard.png)
+![standard](screenshots/standard.png)
 
 **Dark:**
-![dark](icons/Screenshots/dark.png)
+![dark](screenshots/dark.png)
 
 
 

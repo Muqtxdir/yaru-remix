@@ -1,0 +1,3 @@
+option('icons', type: 'boolean', value: true, description:'build icons component')
+option('themes', type: 'boolean', value: true, description:'build themes component')
+
