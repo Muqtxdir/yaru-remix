@@ -8,7 +8,7 @@ This installation method is to try out the theme while developing it. If you're 
 ```bash
 # apt install libgtk-3-dev git meson sassc
 ```
-# Download the repository from github:
+### Download the repository from github:
 ```bash
 git clone https://github.com/Muqtxdir/yaru-blue.git
 cd yaru-blue
