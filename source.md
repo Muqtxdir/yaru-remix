@@ -102,7 +102,7 @@ To uninstall all Yaru-blue, simply run the following.
 *Note: If you installed it without superuser priveleges just omit the  `sudo`.*
 
 ```bash
-sudo ninja -C "build" uninstall
+sudo ninja uninstall
 ```
 
 Once uninstalled you can reset your icon theme to the default setting by running the following.
