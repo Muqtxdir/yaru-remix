@@ -29,13 +29,13 @@ If you would like to build from master, please follow instructions from [here](s
 
 ### Screenshots
 **Light:**
-![light](screenshots/light.png)
+![light](screenshots/Light.png)
 
 **Standard:**
-![standard](screenshots/standard.png)
+![standard](screenshots/Standard.png)
 
 **Dark:**
-![dark](screenshots/dark.png)
+![dark](screenshots/Dark.png)
 
 
 
