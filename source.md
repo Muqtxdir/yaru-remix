@@ -19,7 +19,7 @@ cd build
 sudo ninja install
 ```
 
-### Icon-theme Tools:
+### Icon-theme Tools (Optional):
 ```bash
 # Additionally installs packages needed to work on the icon theme
 sudo apt install libgtk-3-dev git meson sassc inkscape optipng ruby
