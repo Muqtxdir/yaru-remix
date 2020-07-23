@@ -202,7 +202,7 @@ StEntry {
 .slider {
   height: 15px;
   -barlevel-height: 3px;
-  -barlevel-background-color: #3D3D3D;
+  -barlevel-background-color: #666666;
   -barlevel-border-width: 1px;
   -barlevel-border-color: #222222;
   -barlevel-active-background-color: #1241e5;
