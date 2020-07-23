@@ -54,7 +54,7 @@ stage {
   background-color: #FAFAFA;
   border: 1px solid rgba(0, 0, 0, 0.6); }
 
-.app-folder-dialog .folder-name-container .edit-folder-button, .button {
+.app-folder-dialog .folder-name-container .edit-folder-button, .pad-osd-window .button, .button {
   border-radius: 4px;
   border-style: solid;
   border-width: 1px;
@@ -149,7 +149,7 @@ StEntry {
   color: #3D3D3D;
   background-color: #ffffff;
   border-color: #c7c7c7;
-  selection-background-color: #315bef;
+  selection-background-color: #315BEF;
   selected-color: #ffffff; }
   StEntry:focus {
     border-color: #7390f4;
@@ -205,7 +205,7 @@ StEntry {
   -barlevel-background-color: #e1e1e1;
   -barlevel-border-width: 1px;
   -barlevel-border-color: #c7c7c7;
-  -barlevel-active-background-color: #315bef;
+  -barlevel-active-background-color: #315BEF;
   -barlevel-active-border-color: #1948ed;
   -barlevel-overdrive-color: #c7162b;
   -barlevel-overdrive-border-color: #b51427;
@@ -241,7 +241,7 @@ StScrollBar {
     StScrollBar StButton#vhandle:hover, StScrollBar StButton#hhandle:hover {
       background-color: #636363; }
     StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
-      background-color: #315bef; }
+      background-color: #315BEF; }
 
 /* Popovers/Menus */
 .popup-menu-boxpointer, .candidate-popup-boxpointer {
@@ -503,13 +503,13 @@ StScrollBar {
   .calendar .calendar-today {
     font-weight: bold;
     border: 1px solid transparent;
-    background-color: #315bef;
+    background-color: #315BEF;
     color: #ffffff; }
     .calendar .calendar-today:hover, .calendar .calendar-today:focus {
       background-color: #3f66f0;
       color: #ffffff; }
     .calendar .calendar-today:active, .calendar .calendar-today:selected {
-      background-color: #315bef;
+      background-color: #315BEF;
       color: #ffffff; }
       .calendar .calendar-today:active:hover, .calendar .calendar-today:active:focus, .calendar .calendar-today:selected:hover, .calendar .calendar-today:selected:focus {
         background-color: #3f66f0;
@@ -579,7 +579,7 @@ StScrollBar {
   .world-clocks-button .world-clocks-time {
     font-weight: bold;
     color: #3D3D3D;
-    font-feature-settings: "lnum";
+    font-feature-settings: "tnum";
     font-size: 11pt;
     text-align: right; }
   .world-clocks-button .world-clocks-timezone {
@@ -768,7 +768,7 @@ StScrollBar {
   padding: 0.3em 0.5em 0.3em 0.5em;
   border-radius: 4px; }
   .candidate-box:selected, .candidate-box:hover {
-    background-color: #315bef;
+    background-color: #315BEF;
     color: #ffffff; }
 
 .candidate-page-button-box {
@@ -794,7 +794,9 @@ StScrollBar {
 /* Notifications & Mesage Tray */
 .notification-banner {
   min-height: 64px;
-  width: 34em; }
+  width: 34em;
+  box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.2);
+  border-color: #c7c7c7; }
   .notification-banner .notification-actions {
     spacing: 0; }
 
@@ -805,7 +807,7 @@ StScrollBar {
   width: 1.6em;
   -shell-counter-overlap-x: 3px;
   -shell-counter-overlap-y: 3px;
-  background-color: #315bef;
+  background-color: #315BEF;
   color: #ffffff;
   border: 2px solid #3D3D3D;
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.5);
@@ -966,7 +968,7 @@ StScrollBar {
   .audio-selection-device:hover, .audio-selection-device:focus {
     background-color: rgba(61, 61, 61, 0.1); }
   .audio-selection-device:active {
-    background-color: #315bef;
+    background-color: #315BEF;
     color: #ffffff; }
 
 .audio-selection-device-box {
@@ -1016,7 +1018,7 @@ StScrollBar {
   padding: 12px;
   spacing: 0px; }
   .nm-dialog-item:selected {
-    background-color: #315bef;
+    background-color: #315BEF;
     color: #ffffff; }
 
 .nm-dialog-icon {
@@ -1054,7 +1056,10 @@ StScrollBar {
 /* Pad OSD */
 .pad-osd-window {
   padding: 32px;
-  background-color: rgba(0, 0, 0, 0.8); }
+  background-color: rgba(29, 29, 29, 0.975);
+  color: #eeeeec; }
+  .pad-osd-window .button:insensitive {
+    color: #3D3D3D; }
   .pad-osd-window .pad-osd-title-box {
     spacing: 12px; }
   .pad-osd-window .pad-osd-title-menu-box {
@@ -1106,7 +1111,7 @@ StScrollBar {
   height: 96px; }
 
 .cycler-highlight {
-  border: 5px solid #315bef; }
+  border: 5px solid #315BEF; }
 
 /* Workspace Switcher */
 .workspace-switcher-group {
@@ -1131,7 +1136,7 @@ StScrollBar {
 .ws-switcher-active-left,
 .ws-switcher-active-right {
   height: 52px;
-  background-color: #315bef;
+  background-color: #315BEF;
   border: 1px solid #1241e5;
   border-radius: 7px;
   color: #ffffff; }
@@ -1242,7 +1247,7 @@ StScrollBar {
   font-size: 12pt; }
 
 .window-close {
-  background-color: #315bef;
+  background-color: #315BEF;
   color: #ffffff;
   border: none;
   border-radius: 18px;
@@ -1410,7 +1415,7 @@ StScrollBar {
   height: 5px;
   width: 5px;
   border-radius: 5px;
-  background-color: #315bef;
+  background-color: #315BEF;
   margin-bottom: 1px; }
 
 .rename-folder-popup .rename-folder-popup-item {
@@ -1462,7 +1467,7 @@ StScrollBar {
     box-shadow: inset 0 -2px #eeeeec; }
   .app-view-control:checked {
     color: #eeeeec;
-    box-shadow: inset 0 -2px #315bef; }
+    box-shadow: inset 0 -2px #315BEF; }
   .app-view-control:first-child {
     border-right-width: 0;
     border-radius: 0; }
@@ -1534,7 +1539,7 @@ StScrollBar {
     height: 24px; }
 
 .workspace-thumbnail-indicator {
-  border: 3px solid #315bef;
+  border: 3px solid #315BEF;
   border-radius: 3px;
   padding: 0px; }
 
@@ -1549,11 +1554,11 @@ StScrollBar {
   width: 60px;
   height: 60px;
   -pie-border-width: 3px;
-  -pie-border-color: #315bef;
+  -pie-border-color: #315BEF;
   -pie-background-color: rgba(238, 242, 254, 0.3); }
 
 .magnifier-zoom-region {
-  border: 2px solid #315bef; }
+  border: 2px solid #315BEF; }
   .magnifier-zoom-region.full-screen {
     border-width: 0; }
 
@@ -1756,7 +1761,7 @@ StScrollBar {
 
 .emoji-panel .keyboard-key:latched {
   border-color: #496ef1;
-  background-color: #315bef; }
+  background-color: #315BEF; }
 
 .word-suggestions {
   font-size: 14pt;
@@ -1805,7 +1810,7 @@ StScrollBar {
     color: #eeeeec;
     border-color: rgba(238, 238, 236, 0.2);
     min-height: 22px;
-    selection-background-color: #315bef;
+    selection-background-color: #315BEF;
     selected-color: #ffffff; }
   .lg-dialog .shell-link {
     color: #113edc; }
