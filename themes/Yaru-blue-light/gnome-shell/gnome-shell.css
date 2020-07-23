@@ -1392,7 +1392,7 @@ StScrollBar {
       width: 300px; }
     .app-folder-dialog .folder-name-container .folder-name-label {
       padding: 5px 7px;
-      color: #3d3d3d; }
+      color: #fff; }
     .app-folder-dialog .folder-name-container .edit-folder-button {
       padding: 0;
       width: 36px;
