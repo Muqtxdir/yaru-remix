@@ -1380,7 +1380,7 @@ StScrollBar {
   border-radius: 9px;
   border: 1px solid rgba(55, 55, 55, 0.16);
   spacing: 12px;
-  background-color: rgba(180, 180, 180, 0.925); }
+  background-color: rgba(120, 120, 120, 0.925); }
   .app-folder-dialog .folder-name-container {
     padding: 24px 36px 0;
     spacing: 12px;

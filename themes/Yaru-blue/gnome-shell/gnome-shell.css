@@ -1478,10 +1478,10 @@ StScrollBar {
 #dash {
   font-size: 9pt;
   padding: 5px 0;
-  border-radius: 0 9px 9px 0;
+  border-radius: 0 8px 8px 0;
   border-left-width: 0; }
   #dash:rtl {
-    border-radius: 9px 0 0 9px;
+    border-radius: 8px 0 0 8px;
     border-right-width: 0; }
   #dash .placeholder {
     background-image: none;
