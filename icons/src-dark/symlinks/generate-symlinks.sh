@@ -74,7 +74,7 @@ function dlog() {
 }
 
 DIR=$( cd "$(dirname "${BASH_SOURCE[0]}")" ; pwd -P )
-THEME="dark"
+THEME="Yaru-blue-dark"
 
 # echo $DIR
 # Icon sizes and contextthe s

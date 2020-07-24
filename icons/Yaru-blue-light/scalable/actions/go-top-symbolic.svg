@@ -1,3 +1,35 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M16 10c-.874-.69-1.757-1.397-2.656-2.008-1-.68-1.972-1.288-2.912-1.826C9.564 5.67 8.658 5.296 8 5c-.658.297-1.564.67-2.432 1.166a44.838 44.838 0 0 0-2.912 1.826C1.756 8.602.874 9.309 0 10h1.49c.525-.4 1.063-.836 1.625-1.22.71-.487 1.437-.945 2.18-1.372a39.31 39.31 0 0 1 2.502-1.285L8 6.027l.203.096c.71.335 1.748.852 2.502 1.285.743.427 1.47.885 2.18 1.371.562.385 1.1.82 1.625 1.221zM9 2a1 1 0 0 0-1-1 1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1z" fill="gray"/>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata20854'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:title/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient4526' osb:paint='solid'>
+      <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient3600-4' osb:paint='gradient'>
+      <stop id='stop3602-7' offset='0' style='stop-color:#f4f4f4;stop-opacity:1'/>
+      <stop id='stop3604-6' offset='1' style='stop-color:#dbdbdb;stop-opacity:1'/>
+    </linearGradient>
+  </defs>
+  <g id='layer9' label='status' style='display:inline' transform='translate(-353.00021,327)'/>
+  <g id='layer2' style='display:inline' transform='translate(-112.00001,-40)'/>
+  <g id='layer4' style='display:inline' transform='translate(-112.00001,-40)'/>
+  <g id='g1812' style='display:inline' transform='translate(-112.00001,-40)'/>
+  <g id='g6217' style='display:inline' transform='translate(-112.00001,-40)'/>
+  <g id='layer3' style='display:inline' transform='translate(-112.00001,-40)'/>
+  <g id='g1833' style='display:inline' transform='translate(-112.00001,-40)'/>
+  <g id='layer1' style='display:inline' transform='translate(-112.00001,-40)'>
+    <path d='m 128,50.000002 c -0.87414,-0.69082 -1.75673,-1.39725 -2.65625,-2.00781 -1.00039,-0.67929 -1.97163,-1.28819 -2.91211,-1.82617 -0.86786,-0.49639 -1.77352,-0.8694 -2.43164,-1.16602 -0.65821,0.29663 -1.56355,0.66952 -2.43164,1.16602 -0.94045,0.53796 -1.91154,1.14687 -2.91211,1.82617 -0.89934,0.61045 -1.78211,1.31701 -2.65625,2.00781 h 1.49024 c 0.52495,-0.40003 1.06282,-0.83619 1.625,-1.2207 0.71051,-0.4862 1.43636,-0.94381 2.17968,-1.3711 0.75441,-0.43351 1.79257,-0.95037 2.50196,-1.28515 L 120,46.027342 l 0.20313,0.0957 c 0.70955,0.33478 1.74765,0.8516 2.50195,1.28515 0.74333,0.42729 1.46907,0.88491 2.17969,1.3711 0.56201,0.3845 1.10002,0.82065 1.625,1.2207 z m -7,-8 a 1,1 0 0 0 -1,-1 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 z' id='path3532' style='display:inline;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99980223'/>
+    
+  </g>
 </svg>
