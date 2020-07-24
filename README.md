@@ -32,7 +32,7 @@ If you would like to build from master, please follow instructions from [here](s
 ![light](screenshots/light.png)
 
 **Standard:**
-![standard](screenshots/standard.png)
+![standard](screenshots/default.png)
 
 **Dark:**
 ![dark](screenshots/dark.png)
