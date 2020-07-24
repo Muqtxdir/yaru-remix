@@ -27,4 +27,13 @@ sudo apt install gnome-tweaks
 ### Installation (source):
 If you would like to build from master, please follow instructions from [here](source.md).
 
+### Screenshots
+**Light:**
+![light](screenshots/light.png)
+
+**Standard:**
+![standard](screenshots/standard.png)
+
+**Dark:**
+![dark](screenshots/dark.png)
 
