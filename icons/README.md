@@ -1,26 +1,26 @@
-### Yaru-blue icons
+### Yaru-remix icons
 
-You can build and install Yaru-blue icons from source using Meson.
+You can build and install Yaru-remix icons from source using Meson.
 
 ### Apply:
 
 By default it installs to `/usr/` but you can specify a different directory with a prefix like: `/usr/local` or `$HOME/.local`.
 
-After which you should be able to pick any variant of **Yaru-blue** as your icon theme in **GNOME-Tweaks**, or you can set either from a terminal with:
+After which you should be able to pick any variant of **Yaru-remix** as your icon theme in **GNOME-Tweaks**, or you can set either from a terminal with:
 
 ```bash
-# set the icon theme as Yaru-blue
-gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue"
+# set the icon theme as Yaru-remix
+gsettings set org.gnome.desktop.interface icon-theme "Yaru-remix"
 ```
 
 ```bash
-# set the icon theme as Yaru-blue-dark
-gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue-dark"
+# set the icon theme as Yaru-remix-dark
+gsettings set org.gnome.desktop.interface icon-theme "Yaru-remix-dark"
 ```
 
 ```bash
-# set the icon theme as Yaru-blue-light
-gsettings set org.gnome.desktop.interface icon-theme "Yaru-blue-light"
+# set the icon theme as Yaru-remix-light
+gsettings set org.gnome.desktop.interface icon-theme "Yaru-remix-light"
 ```
 
 ### Revert:

@@ -25,7 +25,7 @@ include REXML
 # INKSCAPE = 'flatpak run org.inkscape.Inkscape'
 INKSCAPE = '/usr/bin/inkscape'
 SRC = "./source-symbolic.svg"
-PREFIX = "../../Yaru-blue-light/scalable"
+PREFIX = "../../Yaru-remix-light/scalable"
 
 # install with `sudo npm install -g svgo`
 SVGO = '/usr/local/bin/svgo'

@@ -27,7 +27,7 @@ import argparse
 # INKSCAPE = ['/usr/bin/flatpak','run','org.inkscape.Inkscape','--shell']
 INKSCAPE = ['/usr/bin/inkscape','--shell']
 OPTIPNG = '/usr/bin/optipng'
-MAINDIR = '../../Yaru-blue'
+MAINDIR = '../../Yaru-remix'
 # SRC = 'fullcolor'
 SOURCES = ('actions', 'apps', 'categories', 'devices', 'emblems', 'legacy', 'mimetypes', 'places', 'status', 'wip')
 

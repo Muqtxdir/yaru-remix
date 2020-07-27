@@ -1,13 +1,16 @@
-### Yaru-blue
-Yaru-blue is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
+### Yaru-remix
 
-Yaru-blue includes:
+![logo](screenshots/yaru-remix(256).png)
+
+Yaru-remix is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
+
+Yaru-remix includes:
 - GTK3 theme
 - gnome-Shell theme
 - Ubuntu-Dock theme (indicators)
-- Yaru-blue icons
+- Yaru-remix icons
 
-- To easily switch between the themes use [yaru-blue-theme-toggle](https://github.com/Muqtxdir/yaru-blue-theme-toggle) extension
+- To easily switch between the themes use [yaru-remix-theme-toggle](https://github.com/Muqtxdir/yaru-remix-theme-toggle) extension
 
 ### Installation (default):
  1. Install **Tweaks**:
@@ -16,7 +19,7 @@ sudo apt install gnome-tweaks
 ```
  2. Install the User-themes extension from [here](https://extensions.gnome.org/extension/19/user-themes/).
  
- 3.  Download `Yaru-blue` from [here](https://github.com/Muqtxdir/yaru-blue/releases/download/v20.04/Yaru-blue-20.04.tar.xz) 
+ 3.  Download `Yaru-remix` from [here](https://github.com/Muqtxdir/yaru-remix/releases/download/v20.04/Yaru-blue-20.04.tar.xz) 
  
  4. Copy contents of *Themes folder* to `~/.themes` or `/usr/share/themes`
  
@@ -24,7 +27,7 @@ sudo apt install gnome-tweaks
  
  6. The theme and icons can now be selected from **Tweaks**
  
-*Note: Yaru-blue theme does not work with Snap and Flatpak apps*
+*Note: Yaru-remix theme does not work with Snap and Flatpak apps*
 
 
 ### Installation (source):
