@@ -1,7 +1,5 @@
-### Yaru-remix
-
 ![logo](screenshots/yaru-remix.png)
-
+### Yaru-remix
 Yaru-remix is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
 
 Yaru-remix includes:
