@@ -35,17 +35,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="62.496297"
-     inkscape:cy="127.53684"
+     inkscape:cx="105.98336"
+     inkscape:cy="126.12262"
      inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="2928"
-     inkscape:window-height="1600"
-     inkscape:window-x="144"
-     inkscape:window-y="54"
+     inkscape:window-width="1528"
+     inkscape:window-height="836"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -284,7 +284,7 @@
        id="clipPath3062"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#000000;fill:url(#linearGradient3066-504);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:40;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;opacity:1"
+         style="color:#000000;fill:url(#linearGradient3066-590);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:40;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;opacity:1"
          id="rect3064"
          width="475.66452"
          height="445.93549"
@@ -293,8 +293,8 @@
     </clipPath>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3045-316"
-       id="linearGradient3066-504"
+       xlink:href="#linearGradient3045-928"
+       id="linearGradient3066-590"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.8580645,0,0,1.8736786,4.4387126,-288.65166)"
        x1="256"
@@ -302,7 +302,7 @@
        x2="256"
        y2="288" />
     <linearGradient
-       id="linearGradient3045-316">
+       id="linearGradient3045-928">
       <stop
          style="stop-color:#847784;stop-opacity:0.99607843;opacity:1"
          offset="0"

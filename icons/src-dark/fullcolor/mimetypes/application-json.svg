@@ -14,7 +14,7 @@
    height="300"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="application-json.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -44,13 +44,13 @@
      width="400px"
      inkscape:window-y="27"
      inkscape:window-x="72"
-     inkscape:window-height="800"
-     inkscape:window-width="1464"
+     inkscape:window-height="836"
+     inkscape:window-width="1528"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer2"
      inkscape:cy="73.48077"
      inkscape:cx="328.28286"
      inkscape:zoom="1"
@@ -516,7 +516,7 @@
            sodipodi:role="line"
            x="19.006836"
            y="-8.2548828"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000">mimetypes</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">mimetypes</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
@@ -528,7 +528,7 @@
            sodipodi:role="line"
            x="146.48828"
            y="-8.2548828"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000">application-json</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">application-json</tspan></text>
       <rect
          inkscape:label="16x16"
          y="236"

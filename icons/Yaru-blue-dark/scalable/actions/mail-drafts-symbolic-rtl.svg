@@ -21,15 +21,15 @@
       <stop id='stop3604-6' offset='1' style='stop-color:#dbdbdb;stop-opacity:1'/>
     </linearGradient>
   </defs>
-  <g id='layer9' label='status' style='display:inline' transform='translate(-453.0002,-213)'/>
-  <g id='layer2' style='display:inline' transform='translate(-212,-580)'/>
-  <g id='layer4' style='display:inline' transform='translate(-212,-580)'/>
-  <g id='g1812' style='display:inline' transform='translate(-212,-580)'/>
-  <g id='g6217' style='display:inline' transform='translate(-212,-580)'/>
-  <g id='layer3' style='display:inline' transform='translate(-212,-580)'/>
-  <g id='g1833' style='display:inline' transform='translate(-212,-580)'/>
-  <g id='layer1' style='display:inline' transform='translate(-212,-580)'>
-    <path d='m 227,580 v 16 h -9 -0.75 L 213,591.75 V 591 580 Z m -1,1 h -12 v 10 h 4 v 4 h 8 z m -2,2 v 1 h -8 v -1 z m 0,2 v 1 h -8 v -1 z m 0,2 v 1 h -8 v -1 z m 0,2 v 1 h -3 v -1 z' id='path3263' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate'/>
+  <g id='layer9' label='status' style='display:inline' transform='translate(-533.0002,-113)'/>
+  <g id='layer2' style='display:inline' transform='translate(-292,-480)'/>
+  <g id='layer4' style='display:inline' transform='translate(-292,-480)'/>
+  <g id='g1812' style='display:inline' transform='translate(-292,-480)'/>
+  <g id='g6217' style='display:inline' transform='translate(-292,-480)'/>
+  <g id='layer3' style='display:inline' transform='translate(-292,-480)'/>
+  <g id='g1833' style='display:inline' transform='translate(-292,-480)'/>
+  <g id='layer1' style='display:inline' transform='translate(-292,-480)'>
+    <path d='m 307,480 v 16 h -9 -0.75 L 293,491.75 V 491 480 Z m -1,1 h -12 v 10 h 4 v 4 h 8 z m -2,2 v 1 h -8 v -1 z m 0,2 v 1 h -8 v -1 z m 0,2 v 1 h -8 v -1 z m 0,2 v 1 h -3 v -1 z' id='path3263' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate'/>
     
   </g>
 </svg>
