@@ -1,6 +1,7 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g color="#000" fill="gray">
-        <path d="M5.5 16s-1-1-4.5-6h2V7h1v4H2.781C5 14 5.5 14.406 5.5 14.406S6 14 8.219 11H7V8h1v2h2c-3.5 5-4.5 6-4.5 6z" opacity=".5"/>
-        <path d="M9.5 0s1 1 4.5 6h-2v3h-1V5h1.219C10 2 9.5 1.594 9.5 1.594S9 2 6.781 5H8v3H7V6H5c3.5-5 4.5-6 4.5-6z" opacity=".5"/>
+<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
+    <g transform='translate(-1033 287)'>
+        
+        <path color='#000' d='M1038.5-271s-1-1-4.5-6h2v-3h1v4h-1.219c2.22 3 2.72 3.406 2.72 3.406s.5-.406 2.718-3.406H1040v-3h1v2h2c-3.5 5-4.5 6-4.5 6z' fill='gray' opacity='.5'/>
+        <path color='#000' d='M1042.5-287s1 1 4.5 6h-2v3h-1v-4h1.219c-2.219-3-2.719-3.406-2.719-3.406s-.5.406-2.719 3.406h1.22v3h-1v-2h-2c3.5-5 4.5-6 4.5-6z' fill='gray' opacity='.5'/>
     </g>
 </svg>
