@@ -40,8 +40,8 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1528"
-     inkscape:window-height="836"
+     inkscape:window-width="1464"
+     inkscape:window-height="800"
      inkscape:window-x="72"
      inkscape:window-y="27"
      width="400px"
@@ -1109,7 +1109,7 @@
        inkscape:label="Text">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;enable-background:new"
          x="152.33328"
          y="244.08597"
          id="text130"><tspan
@@ -1117,10 +1117,10 @@
            id="tspan128"
            x="152.33328"
            y="244.08597"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#777777;fill-opacity:1">dmg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#b3b3b3;fill-opacity:1">dmg</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.73634px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.184759;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:7.73634px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.184759;enable-background:new"
          x="343.33051"
          y="98.501099"
          id="text130-3"
@@ -1129,10 +1129,10 @@
            id="tspan128-6"
            x="343.33051"
            y="98.501099"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.28361px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#777777;fill-opacity:1;stroke-width:0.184759">dmg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.28361px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#b3b3b3;fill-opacity:1;stroke-width:0.184759">dmg</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.65799px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.14145;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:5.65799px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.14145;enable-background:new"
          x="329.21063"
          y="159.03409"
          id="text130-3-7"><tspan
@@ -1140,10 +1140,10 @@
            id="tspan128-6-5"
            x="329.21063"
            y="159.03409"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78958px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#777777;fill-opacity:1;stroke-width:0.14145">dmg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78958px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#b3b3b3;fill-opacity:1;stroke-width:0.14145">dmg</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.61381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.115474;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:4.61381px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.115474;enable-background:new"
          x="326.7674"
          y="208.7883"
          id="text130-3-7-3"
@@ -1152,7 +1152,7 @@
            id="tspan128-6-5-5"
            x="326.7674"
            y="208.7883"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.53658px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#777777;fill-opacity:1;stroke-width:0.115474">dmg</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.53658px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#b3b3b3;fill-opacity:1;stroke-width:0.115474">dmg</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"

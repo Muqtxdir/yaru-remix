@@ -46,14 +46,14 @@
      height="300px"
      width="400px"
      inkscape:window-y="27"
-     inkscape:window-x="0"
-     inkscape:window-height="836"
-     inkscape:window-width="1600"
+     inkscape:window-x="72"
+     inkscape:window-height="800"
+     inkscape:window-width="1464"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer6"
      inkscape:cy="144"
      inkscape:cx="116"
      inkscape:zoom="1"
@@ -680,7 +680,7 @@
       <g
          inkscape:label="brush 16px"
          id="g947-5-0-1-9"
-         style="display:inline;opacity:1;fill:#333333;enable-background:new"
+         style="display:inline;opacity:1;fill:#b3b3b3;enable-background:new"
          transform="matrix(0.07675203,0,0,0.07675203,316.23843,232.03405)"
          inkscape:export-filename="/home/gusbemacbe/GitHub/yaru/icons/Suru/16x16/mimetypes/application-x-theme.png"
          inkscape:export-xdpi="95.999908"
@@ -692,7 +692,7 @@
            sodipodi:nodetypes="cccscssssscccsssccc"
            inkscape:connector-curvature="0"
            id="path1220-9-4-9-2"
-           style="display:inline;fill:#333333;stroke-width:4.91745996"
+           style="display:inline;fill:#b3b3b3;stroke-width:4.91745996"
            d="m 207.27,108.16025 h -6.82003 v 6.40533 H 207.27 c 0.37232,0 0.61492,0.0296 0.76105,0.0615 0.0133,0.0954 0.0251,0.23211 0.0251,0.41798 v 26.57723 c 0,1.19655 -0.47601,2.16777 -0.78625,2.16777 h -49.68806 c -5.00536,0 -8.77968,3.08175 -8.77968,7.16875 v 4.04053 h 6.4017 l -0.005,-4.02613 c 0.11294,-0.21439 1.01726,-0.77783 2.38238,-0.77783 h 49.68817 c 4.16705,0 7.19156,-3.60543 7.19156,-8.5731 v -26.57722 c 7.9e-4,-4.31079 -2.68783,-6.88449 -7.19076,-6.88449 z"
            inkscape:label="scalable" />
         <path
@@ -701,7 +701,7 @@
            inkscape:export-filename="/home/gusbemacbe/Pictures/application-x-theme-half.png"
            inkscape:connector-curvature="0"
            d="m 110.2207,90.746094 c -4.03119,0 -7.27539,3.244201 -7.27539,7.27539 v 24.896486 c 0,4.03119 3.2442,7.27539 7.27539,7.27539 h 29.15235 5.19922 19.14648 29.54883 c 4.01895,0 7.25586,-3.2442 7.25586,-7.27539 V 98.021484 c 0,-4.031189 -3.23691,-7.27539 -7.25586,-7.27539 h -29.54883 -19.14648 -5.19922 z"
-           style="opacity:1;vector-effect:none;fill:#333333;stroke-width:0.49779701"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.49779701"
            id="rect923-0-7-0-9" />
         <path
            inkscape:export-ydpi="90"
@@ -710,12 +710,12 @@
            inkscape:connector-curvature="0"
            d="m 145.66914,154.91992 a 2.7206819,2.7206819 0 0 0 -2.58594,1.875 l -5.32617,16.30469 A 9.2458554,9.2458554 0 0 0 137.3,175.9707 v 42.67969 a 2.3987081,2.3987081 0 0 0 2.39844,2.39844 h 10.14844 2.07812 0.0195 2.69141 9.60937 a 2.3251062,2.3251062 0 0 0 2.32422,-2.32422 v -42.63086 a 10.024166,10.024166 0 0 0 -0.49609,-3.11328 l -5.25391,-16.08399 a 2.8672809,2.8672809 0 0 0 -2.72656,-1.97656 h -3.45703 -2.69141 -0.0195 -2.07812 z"
            inkscape:label="line"
-           style="display:inline;opacity:1;vector-effect:none;fill:#333333;stroke-width:0.50017703"
+           style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.50017703"
            id="rect933-7-1-6-1" />
       </g>
       <g
          transform="matrix(0.10744978,0,0,0.10744978,315.63824,183.24835)"
-         style="display:inline;opacity:1;fill:#333333;enable-background:new"
+         style="display:inline;opacity:1;fill:#b3b3b3;enable-background:new"
          id="g947-5-0-1"
          inkscape:label="brush 24px"
          inkscape:export-filename="/home/gusbemacbe/GitHub/yaru/icons/Suru/24x24@2x/mimetypes/application-x-theme.png"
@@ -724,7 +724,7 @@
         <path
            inkscape:label="scalable"
            d="m 207.27,108.16025 h -6.82003 v 6.40533 H 207.27 c 0.37232,0 0.61492,0.0296 0.76105,0.0615 0.0133,0.0954 0.0251,0.23211 0.0251,0.41798 v 26.57723 c 0,1.19655 -0.47601,2.16777 -0.78625,2.16777 h -49.68806 c -5.00536,0 -8.77968,3.08175 -8.77968,7.16875 v 4.04053 h 6.4017 l -0.005,-4.02613 c 0.11294,-0.21439 1.01726,-0.77783 2.38238,-0.77783 h 49.68817 c 4.16705,0 7.19156,-3.60543 7.19156,-8.5731 v -26.57722 c 7.9e-4,-4.31079 -2.68783,-6.88449 -7.19076,-6.88449 z"
-           style="display:inline;fill:#333333;stroke-width:4.91745996"
+           style="display:inline;fill:#b3b3b3;stroke-width:4.91745996"
            id="path1220-9-4-9"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccscssssscccsssccc"
@@ -733,7 +733,7 @@
            inkscape:export-ydpi="90" />
         <path
            id="rect923-0-7-0"
-           style="opacity:1;vector-effect:none;fill:#333333;stroke-width:0.49779701"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.49779701"
            d="m 110.2207,90.746094 c -4.03119,0 -7.27539,3.244201 -7.27539,7.27539 v 24.896486 c 0,4.03119 3.2442,7.27539 7.27539,7.27539 h 29.15235 5.19922 19.14648 29.54883 c 4.01895,0 7.25586,-3.2442 7.25586,-7.27539 V 98.021484 c 0,-4.031189 -3.23691,-7.27539 -7.25586,-7.27539 h -29.54883 -19.14648 -5.19922 z"
            inkscape:connector-curvature="0"
            inkscape:export-filename="/home/gusbemacbe/Pictures/application-x-theme-half.png"
@@ -741,7 +741,7 @@
            inkscape:export-ydpi="90" />
         <path
            id="rect933-7-1-6"
-           style="display:inline;opacity:1;vector-effect:none;fill:#333333;stroke-width:0.50017703"
+           style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.50017703"
            inkscape:label="line"
            d="m 145.66914,154.91992 a 2.7206819,2.7206819 0 0 0 -2.58594,1.875 l -5.32617,16.30469 A 9.2458554,9.2458554 0 0 0 137.3,175.9707 v 42.67969 a 2.3987081,2.3987081 0 0 0 2.39844,2.39844 h 10.14844 2.07812 0.0195 2.69141 9.60937 a 2.3251062,2.3251062 0 0 0 2.32422,-2.32422 v -42.63086 a 10.024166,10.024166 0 0 0 -0.49609,-3.11328 l -5.25391,-16.08399 a 2.8672809,2.8672809 0 0 0 -2.72656,-1.97656 h -3.45703 -2.69141 -0.0195 -2.07812 z"
            inkscape:connector-curvature="0"
@@ -752,7 +752,7 @@
       <g
          inkscape:label="brush 32px"
          id="g947-5-0"
-         style="display:inline;opacity:1;fill:#333333;enable-background:new"
+         style="display:inline;opacity:1;fill:#b3b3b3;enable-background:new"
          transform="matrix(0.13271402,0,0,0.13271402,315.7374,127.30972)"
          inkscape:export-filename="/home/gusbemacbe/GitHub/yaru/icons/Suru/32x32@2x/mimetypes/application-x-theme.png"
          inkscape:export-xdpi="192"
@@ -764,7 +764,7 @@
            sodipodi:nodetypes="cccscssssscccsssccc"
            inkscape:connector-curvature="0"
            id="path1220-9-4"
-           style="display:inline;fill:#333333;stroke-width:4.91745996"
+           style="display:inline;fill:#b3b3b3;stroke-width:4.91745996"
            d="m 207.27,108.16025 h -6.82003 v 6.40533 H 207.27 c 0.37232,0 0.61492,0.0296 0.76105,0.0615 0.0133,0.0954 0.0251,0.23211 0.0251,0.41798 v 26.57723 c 0,1.19655 -0.47601,2.16777 -0.78625,2.16777 h -49.68806 c -5.00536,0 -8.77968,3.08175 -8.77968,7.16875 v 4.04053 h 6.4017 l -0.005,-4.02613 c 0.11294,-0.21439 1.01726,-0.77783 2.38238,-0.77783 h 49.68817 c 4.16705,0 7.19156,-3.60543 7.19156,-8.5731 v -26.57722 c 7.9e-4,-4.31079 -2.68783,-6.88449 -7.19076,-6.88449 z"
            inkscape:label="scalable" />
         <path
@@ -773,7 +773,7 @@
            inkscape:export-filename="/home/gusbemacbe/Pictures/application-x-theme-half.png"
            inkscape:connector-curvature="0"
            d="m 110.2207,90.746094 c -4.03119,0 -7.27539,3.244201 -7.27539,7.27539 v 24.896486 c 0,4.03119 3.2442,7.27539 7.27539,7.27539 h 29.15235 5.19922 19.14648 29.54883 c 4.01895,0 7.25586,-3.2442 7.25586,-7.27539 V 98.021484 c 0,-4.031189 -3.23691,-7.27539 -7.25586,-7.27539 h -29.54883 -19.14648 -5.19922 z"
-           style="opacity:1;vector-effect:none;fill:#333333;stroke-width:0.49779701"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.49779701"
            id="rect923-0-7" />
         <path
            inkscape:export-ydpi="90"
@@ -782,12 +782,12 @@
            inkscape:connector-curvature="0"
            d="m 145.66914,154.91992 a 2.7206819,2.7206819 0 0 0 -2.58594,1.875 l -5.32617,16.30469 A 9.2458554,9.2458554 0 0 0 137.3,175.9707 v 42.67969 a 2.3987081,2.3987081 0 0 0 2.39844,2.39844 h 10.14844 2.07812 0.0195 2.69141 9.60937 a 2.3251062,2.3251062 0 0 0 2.32422,-2.32422 v -42.63086 a 10.024166,10.024166 0 0 0 -0.49609,-3.11328 l -5.25391,-16.08399 a 2.8672809,2.8672809 0 0 0 -2.72656,-1.97656 h -3.45703 -2.69141 -0.0195 -2.07812 z"
            inkscape:label="line"
-           style="display:inline;opacity:1;vector-effect:none;fill:#333333;stroke-width:0.50017703"
+           style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.50017703"
            id="rect933-7-1" />
       </g>
       <g
          transform="matrix(0.19953533,0,0,0.19953533,313.36846,52.892948)"
-         style="display:inline;opacity:1;fill:#333333;enable-background:new"
+         style="display:inline;opacity:1;fill:#b3b3b3;enable-background:new"
          id="g947-5"
          inkscape:label="brush 48px"
          inkscape:export-filename="/home/gusbemacbe/GitHub/yaru/icons/Suru/48x48@2x/mimetypes/application-x-theme.png"
@@ -796,7 +796,7 @@
         <path
            inkscape:label="scalable"
            d="m 207.27,108.16025 h -6.82003 v 6.40533 H 207.27 c 0.37232,0 0.61492,0.0296 0.76105,0.0615 0.0133,0.0954 0.0251,0.23211 0.0251,0.41798 v 26.57723 c 0,1.19655 -0.47601,2.16777 -0.78625,2.16777 h -49.68806 c -5.00536,0 -8.77968,3.08175 -8.77968,7.16875 v 4.04053 h 6.4017 l -0.005,-4.02613 c 0.11294,-0.21439 1.01726,-0.77783 2.38238,-0.77783 h 49.68817 c 4.16705,0 7.19156,-3.60543 7.19156,-8.5731 v -26.57722 c 7.9e-4,-4.31079 -2.68783,-6.88449 -7.19076,-6.88449 z"
-           style="display:inline;fill:#333333;stroke-width:4.91745996"
+           style="display:inline;fill:#b3b3b3;stroke-width:4.91745996"
            id="path1220-9"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccscssssscccsssccc"
@@ -805,7 +805,7 @@
            inkscape:export-ydpi="90" />
         <path
            id="rect923-0"
-           style="opacity:1;vector-effect:none;fill:#333333;stroke-width:0.49779701"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.49779701"
            d="m 110.2207,90.746094 c -4.03119,0 -7.27539,3.244201 -7.27539,7.27539 v 24.896486 c 0,4.03119 3.2442,7.27539 7.27539,7.27539 h 29.15235 5.19922 19.14648 29.54883 c 4.01895,0 7.25586,-3.2442 7.25586,-7.27539 V 98.021484 c 0,-4.031189 -3.23691,-7.27539 -7.25586,-7.27539 h -29.54883 -19.14648 -5.19922 z"
            inkscape:connector-curvature="0"
            inkscape:export-filename="/home/gusbemacbe/Pictures/application-x-theme-half.png"
@@ -813,7 +813,7 @@
            inkscape:export-ydpi="90" />
         <path
            id="rect933-7"
-           style="display:inline;opacity:1;vector-effect:none;fill:#333333;stroke-width:0.50017703"
+           style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.50017703"
            inkscape:label="line"
            d="m 145.66914,154.91992 a 2.7206819,2.7206819 0 0 0 -2.58594,1.875 l -5.32617,16.30469 A 9.2458554,9.2458554 0 0 0 137.3,175.9707 v 42.67969 a 2.3987081,2.3987081 0 0 0 2.39844,2.39844 h 10.14844 2.07812 0.0195 2.69141 9.60937 a 2.3251062,2.3251062 0 0 0 2.32422,-2.32422 v -42.63086 a 10.024166,10.024166 0 0 0 -0.49609,-3.11328 l -5.25391,-16.08399 a 2.8672809,2.8672809 0 0 0 -2.72656,-1.97656 h -3.45703 -2.69141 -0.0195 -2.07812 z"
            inkscape:connector-curvature="0"
@@ -822,7 +822,7 @@
            inkscape:export-ydpi="90" />
       </g>
       <g
-         style="display:inline;fill:#333333;enable-background:new"
+         style="display:inline;fill:#b3b3b3;enable-background:new"
          inkscape:label="brush scalable"
          id="g947"
          inkscape:export-filename="/home/gusbemacbe/GitHub/yaru/icons/Suru/256x256@2x/mimetypes/application-x-theme.png"
@@ -836,7 +836,7 @@
            sodipodi:nodetypes="cccscssssscccsssccc"
            inkscape:connector-curvature="0"
            id="path1220"
-           style="display:inline;fill:#333333;stroke-width:4.91745996"
+           style="display:inline;fill:#b3b3b3;stroke-width:4.91745996"
            d="m 207.27,108.16025 h -6.82003 v 6.40533 H 207.27 c 0.37232,0 0.61492,0.0296 0.76105,0.0615 0.0133,0.0954 0.0251,0.23211 0.0251,0.41798 v 26.57723 c 0,1.19655 -0.47601,2.16777 -0.78625,2.16777 h -49.68806 c -5.00536,0 -8.77968,3.08175 -8.77968,7.16875 v 4.04053 h 6.4017 l -0.005,-4.02613 c 0.11294,-0.21439 1.01726,-0.77783 2.38238,-0.77783 h 49.68817 c 4.16705,0 7.19156,-3.60543 7.19156,-8.5731 v -26.57722 c 7.9e-4,-4.31079 -2.68783,-6.88449 -7.19076,-6.88449 z"
            inkscape:label="scalable" />
         <path
@@ -845,7 +845,7 @@
            inkscape:export-filename="/home/gusbemacbe/Pictures/application-x-theme-half.png"
            inkscape:connector-curvature="0"
            d="m 110.2207,90.746094 c -4.03119,0 -7.27539,3.244201 -7.27539,7.27539 v 24.896486 c 0,4.03119 3.2442,7.27539 7.27539,7.27539 h 29.15235 5.19922 19.14648 29.54883 c 4.01895,0 7.25586,-3.2442 7.25586,-7.27539 V 98.021484 c 0,-4.031189 -3.23691,-7.27539 -7.25586,-7.27539 h -29.54883 -19.14648 -5.19922 z"
-           style="opacity:1;vector-effect:none;fill:#333333;stroke-width:0.49779701"
+           style="opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.49779701"
            id="rect923" />
         <path
            inkscape:export-ydpi="90"
@@ -854,7 +854,7 @@
            inkscape:connector-curvature="0"
            d="m 145.66914,154.91992 a 2.7206819,2.7206819 0 0 0 -2.58594,1.875 l -5.32617,16.30469 A 9.2458554,9.2458554 0 0 0 137.3,175.9707 v 42.67969 a 2.3987081,2.3987081 0 0 0 2.39844,2.39844 h 10.14844 2.07812 0.0195 2.69141 9.60937 a 2.3251062,2.3251062 0 0 0 2.32422,-2.32422 v -42.63086 a 10.024166,10.024166 0 0 0 -0.49609,-3.11328 l -5.25391,-16.08399 a 2.8672809,2.8672809 0 0 0 -2.72656,-1.97656 h -3.45703 -2.69141 -0.0195 -2.07812 z"
            inkscape:label="line"
-           style="display:inline;opacity:1;vector-effect:none;fill:#333333;stroke-width:0.50017703"
+           style="display:inline;opacity:1;vector-effect:none;fill:#b3b3b3;stroke-width:0.50017703"
            id="rect933" />
       </g>
       <g

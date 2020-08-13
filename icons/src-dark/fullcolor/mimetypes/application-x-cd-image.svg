@@ -40,8 +40,8 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1528"
-     inkscape:window-height="836"
+     inkscape:window-width="1464"
+     inkscape:window-height="800"
      inkscape:window-x="72"
      inkscape:window-y="27"
      width="400px"
@@ -1123,7 +1123,7 @@
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;enable-background:new"
          x="151.63725"
          y="244.08597"
          id="text130"><tspan
@@ -1131,10 +1131,10 @@
            id="tspan128"
            x="151.63725"
            y="244.08597"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#777777;fill-opacity:1">iso</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;text-anchor:middle;fill:#b3b3b3;fill-opacity:1">iso</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.55516px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.184759;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:7.55516px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.184759;enable-background:new"
          x="345.96078"
          y="98.679131"
          id="text130-3"
@@ -1143,10 +1143,10 @@
            id="tspan128-6"
            x="345.96078"
            y="98.679131"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0662px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#777777;fill-opacity:1;stroke-width:0.184759">iso</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.0662px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#b3b3b3;fill-opacity:1;stroke-width:0.184759">iso</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:5.67312px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.14145;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:5.67312px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.14145;enable-background:new"
          x="330.66504"
          y="159.33678"
          id="text130-3-7"
@@ -1155,10 +1155,10 @@
            id="tspan128-6-5"
            x="330.66504"
            y="159.33678"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80774px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#777777;fill-opacity:1;stroke-width:0.14145">iso</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.80774px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#b3b3b3;fill-opacity:1;stroke-width:0.14145">iso</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.61896px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.115474;enable-background:new"
+         style="font-style:normal;font-weight:normal;font-size:4.61896px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.115474;enable-background:new"
          x="328.3858"
          y="209.02089"
          id="text130-3-7-3"><tspan
@@ -1166,7 +1166,7 @@
            id="tspan128-6-5-5"
            x="328.3858"
            y="209.02089"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54275px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#777777;fill-opacity:1;stroke-width:0.115474">iso</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.54275px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#b3b3b3;fill-opacity:1;stroke-width:0.115474">iso</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
