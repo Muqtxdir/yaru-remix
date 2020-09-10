@@ -1,6 +1,58 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-552 -300)'>
-        
-        <path d='M556.5 300c-1.939 0-3.5 1.533-3.5 3.438v.125c0 1.904 1.561 3.437 3.5 3.437h7c1.939 0 3.5-1.533 3.5-3.438v-.125c0-1.904-1.561-3.437-3.5-3.437zm6.873 1.004a2.5 2.5 0 012.623 2.367v.002a2.5 2.5 0 01-2.369 2.623 2.5 2.5 0 01-2.623-2.369 2.5 2.5 0 012.369-2.623zM556.5 309a3.492 3.492 0 00-3.5 3.5c0 1.939 1.561 3.5 3.5 3.5h7c1.939 0 3.5-1.561 3.5-3.5s-1.561-3.5-3.5-3.5zm-.127 1.004a2.5 2.5 0 012.623 2.367v.002a2.5 2.5 0 01-2.369 2.623 2.5 2.5 0 01-2.623-2.369 2.5 2.5 0 012.369-2.623z' fill='gray'/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="tweaks-app-symbolic.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1478"
+     inkscape:window-height="800"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="40.88"
+     inkscape:cx="8"
+     inkscape:cy="6.9439894"
+     inkscape:window-x="58"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
+  <g
+     transform="matrix(1,0,0,0.875,-551.99999,-261.5)"
+     id="g4">
+    <path
+       d="m 556.5,300 c -1.939,0 -3.5,1.533 -3.5,3.438 v 0.125 c 0,1.904 1.561,3.437 3.5,3.437 h 7 c 1.939,0 3.5,-1.533 3.5,-3.438 v -0.125 C 567,301.533 565.439,300 563.5,300 Z m 6.873,1.004 a 2.5,2.5 0 0 1 2.623,2.367 v 0.002 a 2.5,2.5 0 0 1 -2.369,2.623 2.5,2.5 0 0 1 -2.623,-2.369 2.5,2.5 0 0 1 2.369,-2.623 z M 556.5,309 a 3.492,3.492 0 0 0 -3.5,3.5 c 0,1.939 1.561,3.5 3.5,3.5 h 7 c 1.939,0 3.5,-1.561 3.5,-3.5 0,-1.939 -1.561,-3.5 -3.5,-3.5 z m -0.127,1.004 a 2.5,2.5 0 0 1 2.623,2.367 v 0.002 a 2.5,2.5 0 0 1 -2.369,2.623 2.5,2.5 0 0 1 -2.623,-2.369 2.5,2.5 0 0 1 2.369,-2.623 z"
+       fill="#808080"
+       id="path2" />
+  </g>
 </svg>
