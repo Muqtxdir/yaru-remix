@@ -6,3 +6,5 @@ project('Yaru-remix',
 
 subdir('themes')
 subdir('icons')
+
+
