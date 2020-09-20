@@ -1,7 +1,113 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#000' transform='translate(-172 -300)'>
-        <path d='M175.994 307c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 00-.837.998c-.165.438-.225.96-.225 1.617v2c0 .658.06 1.179.225 1.617.164.439.461.79.838.998.752.416 1.673.37 2.931.385h2.012c1.258-.015 2.179.03 2.932-.385a1.88 1.88 0 00.838-.998c.164-.438.224-.96.224-1.617v-2c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 00-.838-.998c-.752-.416-1.673-.37-2.931-.385h-2.008zm.006 1h2c1.259.015 2.09.06 2.455.262.183.1.287.212.385.472.097.26.16.674.16 1.266v2c0 .592-.063 1.006-.16 1.266-.098.26-.202.371-.385.472-.366.202-1.196.247-2.455.262h-2c-1.259-.015-2.087-.06-2.453-.262-.184-.1-.29-.212-.387-.472-.097-.26-.16-.674-.16-1.266v-2c0-.592.063-1.006.16-1.266.098-.26.203-.371.387-.472.366-.202 1.194-.247 2.453-.262z' fill='gray' font-family='sans-serif' font-weight='400' opacity='.5' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;marker:none'/>
-        
-        <path d='M178.994 302c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 00-.837.998c-.165.438-.225.96-.225 1.617v1h1v-1c0-.592.063-1.006.16-1.266.098-.26.203-.371.387-.472.366-.202 1.194-.247 2.453-.262h5c1.259.015 2.09.06 2.455.262.183.1.287.212.385.472.097.26.16.674.16 1.266v4c0 .592-.063 1.006-.16 1.266-.098.26-.202.371-.385.472-.367.203-1.197.247-2.46.262H183v1h1.006c1.258-.015 2.179.03 2.932-.385a1.88 1.88 0 00.837-.998c.165-.438.225-.96.225-1.617v-4c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 00-.838-.998c-.752-.416-1.673-.37-2.931-.385h-5.008z' fill='gray' font-family='sans-serif' font-weight='400' overflow='visible' style='line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;marker:none'/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="view-fullscreen-symbolic.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1536"
+     inkscape:window-height="800"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="20.88"
+     inkscape:cx="8"
+     inkscape:cy="6.0287803"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0" />
+  <rect
+     style="fill:#808080;stroke-width:0.888761"
+     id="rect121"
+     width="1.3130841"
+     height="4.8125"
+     x="1"
+     y="1" />
+  <rect
+     style="fill:#808080;stroke-width:0.928284"
+     id="rect121-6"
+     width="1.3125"
+     height="5.2523365"
+     x="-2.3125"
+     y="1"
+     transform="rotate(-90)" />
+  <rect
+     style="fill:#808080;stroke-width:0.888761"
+     id="rect121-9"
+     width="1.3130841"
+     height="4.8125"
+     x="1"
+     y="-15"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:#808080;stroke-width:0.928284"
+     id="rect121-6-3"
+     width="1.3125"
+     height="5.2523365"
+     x="13.6875"
+     y="1"
+     transform="matrix(0,1,1,0,0,0)" />
+  <rect
+     style="fill:#808080;stroke-width:0.888761"
+     id="rect121-9-6"
+     width="1.3130841"
+     height="4.8125"
+     x="-15.05"
+     y="-15"
+     transform="scale(-1)" />
+  <rect
+     style="fill:#808080;stroke-width:0.928284"
+     id="rect121-6-3-0"
+     width="1.3125"
+     height="5.2523365"
+     x="13.6875"
+     y="-15.05"
+     transform="rotate(90)" />
+  <rect
+     style="fill:#808080;stroke-width:0.888761"
+     id="rect121-62"
+     width="1.3130841"
+     height="4.8125"
+     x="-15.05"
+     y="1"
+     transform="scale(-1,1)" />
+  <rect
+     style="fill:#808080;stroke-width:0.928284"
+     id="rect121-6-6"
+     width="1.3125"
+     height="5.2523365"
+     x="-2.3125"
+     y="-15.05"
+     transform="matrix(0,-1,-1,0,0,0)" />
 </svg>
