@@ -13,7 +13,7 @@
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="software-properties.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:version="0.32"
    id="svg11300"
    height="300"
@@ -42,17 +42,17 @@
      inkscape:snap-nodes="true"
      height="300px"
      width="400px"
-     inkscape:window-y="27"
-     inkscape:window-x="0"
-     inkscape:window-height="800"
-     inkscape:window-width="1536"
+     inkscape:window-y="29"
+     inkscape:window-x="72"
+     inkscape:window-height="1014"
+     inkscape:window-width="1848"
      inkscape:showpageshadow="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
      showgrid="false"
-     inkscape:current-layer="layer6"
-     inkscape:cy="183.16788"
-     inkscape:cx="245.09336"
+     inkscape:current-layer="layer8"
+     inkscape:cy="199.75285"
+     inkscape:cx="294.05777"
      inkscape:zoom="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -453,8 +453,8 @@
     </filter>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="244"
-       x2="176"
+       y2="256.0256"
+       x2="250.56"
        y1="68"
        x1="128"
        id="linearGradient2936"
@@ -475,8 +475,8 @@
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="244"
-       x2="176"
+       y2="253.77789"
+       x2="254.30304"
        y1="68"
        x1="128"
        id="linearGradient2936-3"
@@ -502,8 +502,8 @@
        id="linearGradient2936-3-3"
        x1="128"
        y1="68"
-       x2="176"
-       y2="244"
+       x2="272.00006"
+       y2="282.91147"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient6139-36"
@@ -524,8 +524,8 @@
        id="linearGradient2936-3-3-9"
        x1="128"
        y1="68"
-       x2="176"
-       y2="244"
+       x2="265.35114"
+       y2="273.3335"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient6139-35"
@@ -546,8 +546,8 @@
        id="linearGradient2936-3-3-0"
        x1="128"
        y1="68"
-       x2="176"
-       y2="244"
+       x2="280.00049"
+       y2="284.00058"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient6139-1"
