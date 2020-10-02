@@ -1,4 +1,5 @@
 ![logo](screenshots/yaru-remix.png)
+
 ### Yaru-remix
 Yaru-remix is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
 
@@ -13,7 +14,7 @@ Yaru-remix includes:
 
 
 ### Installation:
-If you would like to build from master, please follow instructions from [here](install.md).
+If you would like to build from yaru-remix/20.04, please follow instructions from [here](install.md).
 
 ### Screenshots
 **Light:**
