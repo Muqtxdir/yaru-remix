@@ -38,6 +38,24 @@ cd build
 # Build and install
 sudo ninja install
 ```
+
+### install for flatpak apps:
+
+```bash
+# Yaru-remix
+flatpak install flathub org.gtk.Gtk3theme.Yaru-remix
+```
+
+```bash
+# Yaru-remix-dark
+flatpak install flathub org.gtk.Gtk3theme.Yaru-remix-dark
+```
+
+```bash
+# Yaru-remix-light
+flatpak install flathub org.gtk.Gtk3theme.Yaru-remix-light
+```
+
 ### Apply Theme and Icons:
 - To easily switch between the themes use [yaru-remix-theme-toggle](https://github.com/Muqtxdir/yaru-remix-theme-toggle) extension
 

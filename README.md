@@ -9,7 +9,7 @@ Yaru-remix includes:
 - Yaru-remix wallpaper
 - [Yaru-remix-theme-toggle](https://github.com/Muqtxdir/yaru-remix-theme-toggle) extension
  
-*Note: Yaru-remix theme does not work with Snap and Flatpak apps*
+*Note: Yaru-remix theme does not work with Snap apps*
 
 
 ### Installation:
