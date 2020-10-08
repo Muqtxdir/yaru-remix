@@ -10,7 +10,7 @@
    viewBox="0 0 5461.3333 3072"
    version="1.1"
    id="svg172"
-   sodipodi:docname="groovy-no-shades-alt.svg"
+   sodipodi:docname="groovy_gorilla_alt_20.10.svg"
    width="4096pt"
    height="2304pt"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#aaccff"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -41,7 +41,7 @@
      showgrid="false"
      units="pt"
      inkscape:zoom="0.25"
-     inkscape:cx="2902.6865"
+     inkscape:cx="2781.2607"
      inkscape:cy="1541.1489"
      inkscape:window-x="72"
      inkscape:window-y="27"
@@ -107,7 +107,9 @@
      clip-path="url(#_clipPath_iATqGFxonEViPBnL5ZywIMgvc1yaWggz)"
      id="g22"
      style="isolation:isolate"
-     transform="scale(1.3333334)">
+     transform="scale(1.3333334)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <linearGradient
        id="linearGradient1204"
        x1="0.50574714"
@@ -157,7 +159,9 @@
   </g>
   <g
      id="g1380"
-     transform="matrix(0.7875,0,0,0.7875,652.03051,300.78536)">
+     transform="matrix(0.7875,0,0,0.7875,652.03051,300.78536)"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g1298"
        transform="matrix(3,0,0,3,1775.7535,142.47162)">
@@ -172,12 +176,12 @@
              class="cls-2"
              points="547.85,395.51 547.85,630.2 492.16,585.17 "
              id="polygon15"
-             style="opacity:0.08;fill:#000000" />
+             style="opacity:0.3;fill:#ffffff" />
           <polygon
              class="cls-3"
              points="415.83,794.13 463.55,745.48 429.59,645.09 492.16,585.17 547.85,630.2 490.52,769.34 439.15,798.68 390.26,852.44 "
              id="polygon17"
-             style="opacity:0.05;fill:#000000" />
+             style="opacity:0.25;fill:#ffffff" />
           <polygon
              class="cls-4"
              points="511.2,243.16 415.49,156.76 289.5,131.51 289.5,7.99 408.36,29.34 493.97,143.68 "
@@ -212,12 +216,12 @@
              class="cls-8"
              points="31.93 364.77 6.1 355.12 11.27 417.11 31.93 454.04 31.93 364.77"
              id="polyline31"
-             style="opacity:0.08;fill:#000000" />
+             style="opacity:0.25;fill:#ffffff" />
           <polygon
              class="cls-9"
              points="547.85,364.77 575.9,353.06 571.47,414.36 547.85,454.04 "
              id="polygon33"
-             style="opacity:0.08;fill:#000000" />
+             style="opacity:0.25;fill:#ffffff" />
           <polygon
              class="cls-5"
              points="547.85,364.77 547.85,323.44 567.78,331.25 575.9,353.06 "
@@ -252,12 +256,12 @@
              class="cls-12"
              points="187.67,422.19 131.57,439.61 148.94,470.84 234.17,474.62 250.65,442.6 "
              id="polygon47"
-             style="opacity:0.2;fill:#000000" />
+             style="opacity:0.2;fill:#ffffff" />
           <polygon
              class="cls-12"
              points="393.59,421.96 332.25,442.37 341.56,476.86 430.5,471.7 449.44,440.53 "
              id="polygon49"
-             style="opacity:0.2;fill:#000000" />
+             style="opacity:0.2;fill:#ffffff" />
           <polygon
              class="cls-13"
              points="453.25,511.24 501.48,429.51 449.51,440.37 430.5,471.7 "
@@ -267,7 +271,7 @@
              class="cls-9"
              points="249.01 603.16 218.38 613.84 268.78 663.2 273.37 616.21 249.01 603.16"
              id="polyline53"
-             style="opacity:0.2;fill:#000000" />
+             style="opacity:0.2;fill:#ffffff" />
           <polyline
              class="cls-14"
              points="151.18 646.47 114.77 745.99 212.14 653.25 151.18 646.47"
@@ -327,7 +331,7 @@
              class="cls-9"
              points="463.55,745.48 414.69,771.5 289.5,745.48 164.24,771.29 114.77,745.99 163.85,782.78 289.5,766.14 415.16,782.78 "
              id="polygon77"
-             style="opacity:0.2;fill:#000000;fill-opacity:1" />
+             style="opacity:0.2;fill:#ffffff;fill-opacity:1" />
           <polygon
              class="cls-10"
              points="289.5,416.19 289.5,355.81 382.52,334.02 395.32,388.24 "
@@ -387,7 +391,7 @@
              class="cls-9"
              points="305.14,616.03 326.92,603.43 360.38,614.91 311.24,663.37 "
              id="polygon101"
-             style="opacity:0.2;fill:#000000" />
+             style="opacity:0.2;fill:#ffffff" />
           <polygon
              class="cls-22"
              points="212.14,653.25 114.77,745.99 164.24,771.29 289.5,745.48 289.5,666.9 268.78,663.2 "
@@ -417,12 +421,12 @@
              class="cls-23"
              points="31.93,396.91 31.94,630.2 88.73,586.59 "
              id="polygon113"
-             style="opacity:0.04;fill:#000000" />
+             style="opacity:0.3;fill:#ffffff" />
           <polygon
              class="cls-8"
              points="188.75,852.44 163.18,794.13 114.77,745.99 151.18,646.47 88.73,586.59 31.94,630.2 89.27,769.34 138.89,797.58 "
              id="polygon115"
-             style="opacity:0.07;fill:#000000" />
+             style="opacity:0.25;fill:#ffffff" />
           <polygon
              class="cls-24"
              points="182.5,219.44 289.5,203.6 289.5,131.51 163.68,159.69 "
