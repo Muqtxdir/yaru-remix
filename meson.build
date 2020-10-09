@@ -4,7 +4,8 @@ project('Yaru-remix',
         license : ['GPL3', 'CC BY-SA 4.0'],
         default_options: ['prefix=/usr'])
 
-subdir('themes')
+subdir('gnome-shell')
+subdir('gtk')
 subdir('icons')
 
 
