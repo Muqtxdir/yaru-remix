@@ -1,12 +1,11 @@
-install_subdir('Yaru-remix',
-    install_dir: join_paths(get_option('prefix'), 'share/themes')
-)
+flavours = []
+foreach flavour: ['default', 'dark', 'light']
+  if not get_option(flavour)
+    message('skip flavour ' + flavour)
+    continue
+  endif
+  flavours += flavour
+endforeach
 
-install_subdir('Yaru-remix-dark',
-    install_dir: join_paths(get_option('prefix'), 'share/themes')
-)
 
-install_subdir('Yaru-remix-light',
-    install_dir: join_paths(get_option('prefix'), 'share/themes')
-)
-
+subdir('src')
