@@ -77,7 +77,7 @@ gsettings set org.gnome.desktop.interface icon-theme "Yaru-remix"
 
 ### Uninstall:
 
-- To uninstall all Yaru-remix, simply run the following (although some files won't be deleted succesfully)
+- To uninstall all Yaru-remix, simply run the following (Although some files won't be deleted succesfully)
 
 ```bash
 cd yaru-remix
