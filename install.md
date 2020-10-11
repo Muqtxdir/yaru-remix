@@ -9,7 +9,7 @@ To try out the theme, follow the instructions:
 
 ### packages needed to build yaru-remix
 ```bash
-sudo apt install libgtk-3-dev git meson 
+sudo apt install libgtk-3-dev sassc git meson 
 ```
 
 ### packages for theme modification (Optional):
