@@ -42,6 +42,23 @@ sudo ninja install
 ### install for flatpak apps:
 
 ```bash
+# Yaru-remix-themes
+sudo snap install sudo snap install yaru-remix-themes
+```
+
+```bash
+# Apply Yaru-remix GTK for GTK-snaps
+for i in $(snap connections | grep gtk-common-themes:gtk-3-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix-themes:gtk-3-themes; done
+```
+
+```bash
+# Add Yaru-remix icons for snaps
+for i in $(snap connections | grep gtk-common-themes:icon-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix-themes:icon-themes; done
+```
+
+### install for flatpak apps:
+
+```bash
 # Yaru-remix
 flatpak install flathub org.gtk.Gtk3theme.Yaru-remix
 ```
