@@ -39,7 +39,7 @@ cd build
 sudo ninja install
 ```
 
-### install for flatpak apps:
+### install for snap apps:
 
 ```bash
 # Yaru-remix-themes
@@ -56,7 +56,7 @@ for i in $(snap connections | grep gtk-common-themes:gtk-3-themes | awk '{print 
 for i in $(snap connections | grep gtk-common-themes:icon-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix-themes:icon-themes; done
 ```
 
-### install for sanp apps:
+### install for flatpak apps:
 
 ```bash
 # Yaru-remix
