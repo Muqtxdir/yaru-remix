@@ -56,7 +56,7 @@ for i in $(snap connections | grep gtk-common-themes:gtk-3-themes | awk '{print 
 for i in $(snap connections | grep gtk-common-themes:icon-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix-themes:icon-themes; done
 ```
 
-### install for flatpak apps:
+### install for sanp apps:
 
 ```bash
 # Yaru-remix
