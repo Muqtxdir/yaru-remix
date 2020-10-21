@@ -43,7 +43,7 @@ sudo ninja install
 
 ```bash
 # Yaru-remix-themes
-sudo snap install sudo snap install yaru-remix-themes
+sudo snap install yaru-remix-themes
 ```
 
 ```bash
@@ -112,6 +112,28 @@ sudo rm -R /usr/share/themes/Yaru-remix*
 # deletes icon-folder named Yaru-remix, Yaru-remix-light, Yaru-remix-dark
 sudo rm -R /usr/share/icons/Yaru-remix*
 
+```
+### uninstall for snap apps:
+
+```bash
+# Yaru-remix-themes
+sudo snap uninstall yaru-remix-themes
+```
+### uninstall for flatpak apps:
+
+```bash
+# Yaru-remix
+flatpak remove flathub org.gtk.Gtk3theme.Yaru-remix
+```
+
+```bash
+# Yaru-remix-dark
+flatpak remove flathub org.gtk.Gtk3theme.Yaru-remix-dark
+```
+
+```bash
+# Yaru-remix-light
+flatpak remove flathub org.gtk.Gtk3theme.Yaru-remix-light
 ```
 
 - Once uninstalled you can reset your GTK and icon theme to the default setting by running the following.
