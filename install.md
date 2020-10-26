@@ -1,8 +1,10 @@
 ## Build and install themes from source
 
 This will install:
+- GTK2 themes
 - GTK3 themes
 - gnome-Shell theme
+- Ubuntu-dock theme (indicators)
 - Yaru-remix icons
 
 To try out the theme, follow the instructions:
@@ -47,12 +49,18 @@ sudo snap install yaru-remix-themes
 ```
 
 ```bash
-# Apply Yaru-remix GTK for GTK-snaps
+# Apply Yaru-remix GTK2 for GTK2-snaps (need to be done everytime you install a new GTK2-snap app)
+
+for i in $(snap connections | grep gtk-common-themes:gtk-2-themes | awk '{print $2}'); do sudo snap connect $i yaru-colors:gtk-2-themes; done
+```
+
+```bash
+# Apply Yaru-remix GTK3 for GTK3-snaps (need to be done everytime you install a new GTK3-snap app)
 for i in $(snap connections | grep gtk-common-themes:gtk-3-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix-themes:gtk-3-themes; done
 ```
 
 ```bash
-# Add Yaru-remix icons for snaps
+# Add Yaru-remix icons for snaps (need to be done everytime you install a new snap app)
 for i in $(snap connections | grep gtk-common-themes:icon-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix-themes:icon-themes; done
 ```
 
@@ -76,7 +84,15 @@ flatpak install flathub org.gtk.Gtk3theme.Yaru-remix-light
 ### Apply Theme and Icons:
 - To easily switch between the themes use [yaru-remix-theme-toggle](https://github.com/Muqtxdir/yaru-remix-theme-toggle) extension
 
+### Apply Ubuntu-dock indicator color:
+- To apply Yaru-remix color on Ubuntu-dock, open terminal and do:
 
+```bash
+gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots-color '#315bef' 2> /dev/null
+```
+```bash
+ gsettings set org.gnome.shell.extensions.dash-to-dock custom-theme-running-dots-border-color '#315bef' 2> /dev/null
+```
 
 ### Applying Theme and Icons manually:
 
