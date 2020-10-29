@@ -14,10 +14,10 @@ Yaru-remix includes:
 *Note: Yaru-remix now works with both Snap-apps and Flatpak-apps*
 
 ### Installation:
-- For install from 'master` branch, please follow instructions from [here](install.md)
+- For install from `master` branch, please follow instructions from [here](install.md)
 
-- For Ubuntu 20.10 (GNOME 3.38), please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/yaru-remix/20.10/install.md)
-- For Ubuntu 20.04, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/yaru-remix/20.04/install.md).
+- For **Ubuntu 20.10**(GNOME 3.38), please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/yaru-remix/20.10/install.md)
+- For **Ubuntu 20.04**(GNOME 3.36), please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/yaru-remix/20.04/install.md).
 
 
 
