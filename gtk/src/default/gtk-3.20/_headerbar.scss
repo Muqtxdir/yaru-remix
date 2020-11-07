@@ -212,7 +212,7 @@ headerbar,
   // Re-style switches because they are drawn on a dark headerbar
   switch {
     border-color: $_button_border_color;
-    color: $headerbar_fg_color;
+    color: transparent;
     background-color: $_button_bg_color;
     &:hover { background-color: lighten($_button_bg_color, 2%); }
     &:backdrop {
@@ -234,26 +234,7 @@ headerbar,
       background-color: $checkradio_bg_color;
     }
   }
-  // Re-style sliders for switches and scales do make them look sharp on the dark headerbar
-  switch, scale {
-    slider {
-      @include button(normal-alt, $_button_bg_color);
-
-      &:backdrop {
-        @include button(backdrop-alt, $_button_bg_color);
-        &, &:checked, &:disabled, &:checked:disabled {
-          border-color: darken($_backdrop_button_border_color, 4%); box-shadow: none;
-        }
-      }
-
-      &:checked {
-        border-color: $_button_border_color;
-      }
-      &:disabled {
-        @include button(insensitive, darken($headerbar_bg_color, 8%));
-      }
-    }
-  }
+  
 
   // re-insert the full selection mode section from common ...
   .selection-mode &,

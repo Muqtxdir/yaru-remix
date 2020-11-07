@@ -2815,12 +2815,14 @@ treeview ~ scrollbar.vertical {
  * Switch *
  **********/
 switch {
-  outline-offset: -4px;
+  outline-offset: 0;
 
   // similar to the .scale
   border: 1px solid $borders_color;
-  border-radius: 14px;
-  color: $fg_color;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  color: transparent;
   background-color: $dark_fill;
   text-shadow: 0 1px transparentize(black, 0.9);
 
@@ -2841,13 +2843,13 @@ switch {
 
   &:backdrop {
     color: $backdrop_fg_color;
-    border-color: $backdrop_borders_color;
+    border-color: white;
     background-color: $backdrop_dark_fill;
     text-shadow: none;
     transition: $backdrop_transition;
 
     &:checked {
-      @if $variant == 'light' { color: $backdrop_bg_color; }
+      @if $variant == 'light' { color: $white; }
       border-color: if($variant == 'light', $checkradio_borders_color,
                                             $selected_borders_color);
       background-color: $checkradio_bg_color;
@@ -2861,20 +2863,21 @@ switch {
   }
 
   slider {
-    margin: -1px;
-    min-width: 24px;
-    min-height: 24px;
+    background-color: white;
+    background-clip: if($variant == "light", border-box, padding-box);
+    margin: 2px;
+    min-width: 18px;
+    min-height: 18px;
     border: 1px solid;
-    border-radius: 50%;
+    outline-offset: -2px;
+    border-radius: 4px;
     transition: $button_transition;
     -gtk-outline-radius: 20px;
 
     @if $variant == 'light' {
       @include button(normal-alt, $edge: $shadow_color);
     } 
-    @else {
-      @include button(normal-alt, $c: lighten($bg_color,6%), $edge: $shadow_color);
-    }
+    
   }
   
   image { color: transparent; } /* only show i / o for the accessible theme */
@@ -2883,9 +2886,7 @@ switch {
     @if $variant == 'light' {
       @include button(hover-alt, $edge: $shadow_color);
     }
-    @else {
-      @include button(hover-alt, $c: lighten($bg_color,6%), $edge: $shadow_color);
-    }
+    
   }
 
   &:checked > slider { border: 1px solid $checkradio_borders_color; }
@@ -2896,7 +2897,9 @@ switch {
     slider {
       transition: $backdrop_transition;
 
-      @include button(backdrop);
+      @if $variant == 'light' {
+      @include button(hover-alt, $edge: $shadow_color);
+    }
     }
 
     &:checked > slider { border-color: $checkradio_borders_color; }
