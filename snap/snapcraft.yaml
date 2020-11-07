@@ -38,13 +38,11 @@ parts:
     after: [utils]
     source: https://github.com/Muqtxdir/yaru-remix.git
     source-depth: 1
-    source-commit: 08939e94bc315c2f4a5655b73a859da21da61f0e
     plugin: meson
     meson-parameters: ["--prefix=/", "-Dgnome-shell=false"]
     build-packages:
       - sassc
-      - pkg-config
-      - libglib2.0-dev
+      - libgtk-3-dev
     override-build: |
       snapcraftctl build
       $SNAPCRAFT_STAGE/update-icon-cache.sh $SNAPCRAFT_PART_INSTALL/share/icons
