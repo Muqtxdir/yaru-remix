@@ -2866,8 +2866,8 @@ switch {
     background-color: white;
     background-clip: if($variant == "light", border-box, padding-box);
     margin: 2px;
-    min-width: 18px;
-    min-height: 18px;
+    min-width: 16px;
+    min-height: 16px;
     border: 1px solid;
     outline-offset: -2px;
     border-radius: 4px;
