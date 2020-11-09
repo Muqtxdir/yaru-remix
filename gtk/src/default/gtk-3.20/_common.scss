@@ -2823,7 +2823,8 @@ switch {
   border-width: 1px;
   border-style: solid;
   color: transparent;
-  background-color: $dark_fill;
+  @if $variant == 'light' { background-color: #dedede; }
+  @else {background-color: #808080; }
   text-shadow: 0 1px transparentize(black, 0.9);
 
   &:checked {
@@ -2843,8 +2844,9 @@ switch {
 
   &:backdrop {
     color: $backdrop_fg_color;
-    border-color: white;
-    background-color: $backdrop_dark_fill;
+    border-color: $backdrop_borders_color;
+    @if $variant == 'light' { background-color: #dedede; }
+  @else {background-color: #808080; }
     text-shadow: none;
     transition: $backdrop_transition;
 
