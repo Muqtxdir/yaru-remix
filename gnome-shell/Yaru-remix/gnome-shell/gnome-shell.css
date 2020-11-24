@@ -518,6 +518,7 @@ StScrollBar {
         background-color: #3f66f0;
         color: #FFFFFF; }
   .calendar .calendar-day-with-events {
+    color: #315bef;
     background-image: url("calendar-today.svg"); }
     .calendar .calendar-day-with-events.calendar-work-day:not(.calendar-other-month-day) {
       color: #575757;
