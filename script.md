@@ -8,7 +8,7 @@ cd ~/Downloads
 ```
 ```bash
 #make the script executable
-sudo chmod +x install.sh
+chmod +x install.sh
 ```
 ```bash
 #run the script
@@ -28,7 +28,7 @@ cd ~/Downloads
 ```
 ```bash
 #make the script executable
-sudo chmod +x install.sh
+chmod +x install.sh
 ```
 ```bash
 #run the script
