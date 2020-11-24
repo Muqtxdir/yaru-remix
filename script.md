@@ -28,7 +28,7 @@ cd ~/Downloads
 ```
 ```bash
 #make the script executable
-chmod +x install.sh
+chmod +x uninstall.sh
 ```
 ```bash
 #run the script
