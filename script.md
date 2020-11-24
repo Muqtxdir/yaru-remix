@@ -32,7 +32,7 @@ chmod +x uninstall.sh
 ```
 ```bash
 #run the script
-./install.sh
+./uninstall.sh
 ```
 - Follow the uninstall process
 - Restart to remove yaru-remix
