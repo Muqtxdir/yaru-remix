@@ -524,6 +524,9 @@ StScrollBar {
     .calendar .calendar-day-with-events.calendar-work-day:not(.calendar-other-month-day) {
       color: white;
       font-weight: bold; }
+      .calendar .calendar-day-with-events.calendar-work-day.calendar-today {
+        color: #ffffff;
+      }
   .calendar .calendar-other-month-day {
     color: rgba(247, 247, 247, 0.5); }
   .calendar .calendar-week-number {
