@@ -1,9 +1,0 @@
-<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
- <title>Pop Symbolic Icon Theme</title>
- <defs>
-  <filter color-interpolation-filters="sRGB">
-   <feBlend in2="BackgroundImage" mode="darken"/>
-  </filter>
- </defs>
- <path d="m6.96 2c-0.404 0.854-0.797 1.72-1.179 2.598-0.381 0.877-0.769 1.8-1.162 2.77-0.381 0.969-0.773 1.998-1.178 3.083-0.25 0.67-0.525 1.448-0.793 2.194l3.645-3.645h-0.117c0.312-0.86 0.62-1.694 0.906-2.445 0.347-0.878 0.652-1.623 0.918-2.235 0.242 0.562 0.533 1.28 0.86 2.114l1.486-1.487c-0.048-0.112-0.097-0.239-0.145-0.35a88.645 88.645 0 0 0-1.178-2.597zm6.759 0.988-12.022 12.022 0.707 0.707 1.717-1.717h0.309l0.166-0.475 2.524-2.525h3.28c0.161 0.485 0.406 1.136 0.58 1.598 0.173 0.461 0.342 0.929 0.503 1.402h2.358a135.91 135.91 0 0 0-1.301-3.549 117.8 117.8 0 0 0-1.195-3.084c-0.058-0.146-0.117-0.278-0.174-0.418l3.254-3.254zm-4.089 5.502c0.064 0.17 0.126 0.331 0.191 0.51h-0.7z" fill="#808080" font-family="Ubuntu" font-size="17.333px" font-weight="500" letter-spacing="0" word-spacing="0" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
-</svg>

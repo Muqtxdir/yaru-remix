@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Yaru-remix-light
 Comment=A desktop adaptation of the Ubuntu mobile icons.
-Inherits=Yaru,Humanity,hicolor
+Inherits=Yaru-remix,Yaru,Humanity,hicolor
 Example=folder
 
 # Directory list
