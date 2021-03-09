@@ -1,6 +1,6 @@
 ### installation using script:
 - Install the User-themes extension from [here](https://extensions.gnome.org/extension/19/user-themes/).
-- Download **_install.sh_** from [here](https://github.com/Muqtxdir/yaru-remix/releases/download/v20.10.1/install.sh)
+- Download **_install.sh_** from [here](https://github.com/Muqtxdir/yaru-remix/releases/download/v20.04/install.sh)
 - Open **Terminal** and type:
 ```bash
 #switch to Downloads directory
@@ -21,11 +21,11 @@ chmod +x install.sh
 
 The following video guides you through these steps.
 
-[![Video guide](https://img.youtube.com/watch?v=-dBliCTy9qA/0.jpg)](https://www.youtube.com/watch?v=-dBliCTy9qA)
+[![install yaru remix by scipt](https://img.youtube.com/vi/ZSuXksOqAGw/0.jpg)](https://www.youtube.com/watch?v=ZSuXksOqAGw "install yaru remix by scipt")
 
 
 ### uninstallation using script:
-- Download **_uninstall.sh_** from [here](https://github.com/Muqtxdir/yaru-remix/releases/download/v20.10.1/uninstall.sh)
+- Download **_uninstall.sh_** from [here](https://github.com/Muqtxdir/yaru-remix/releases/download/v20.04/uninstall.sh)
 - Open **Terminal** and type:
 ```bash
 #switch to Downloads directory
@@ -44,4 +44,8 @@ chmod +x uninstall.sh
 
 **tested on:**
 Arch Linux, Debian 10, Debian sid, Fedora 33, Fedora 32, Manjaro Linux 20.2, Pop!-OS 20.10, Pop!-OS 20.04, Ubuntu 20.10, Ubuntu 20.04, Ubuntu 18.04
+
+
+
+
 

@@ -1,27 +1,26 @@
-![logo](screenshots/yaru-remix.png)
+<p align="center">
+<img src="https://github.com/Muqtxdir/yaru-remix/raw/master/logo-yaru-remix(256).png"/>
+</p>
+
 ### Yaru-remix
 Yaru-remix is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
 
 Yaru-remix includes:
-- GTK themes (gtk2, gtk3)
-- Gnome-Shell theme
+- [Yaru-remix GTK themes](GTK2, GTK3, GTK4) 
+- [Yaru-remix Gnome-Shell themes](gnome-shell)
 - Ubuntu-dock theme (indicators)
-- Yaru-remix icons
-- Yaru-remix cursors
-- Yaru-remix wallpaper
+- [Yaru-remix icons and cursors](icons)
+- [Yaru-remix wallpapers](wallpapers/Yaru-remix-backgrounds/)
 - [Yaru-remix-theme-toggle](https://github.com/Muqtxdir/yaru-remix-theme-toggle) extension
  
-*Note: Yaru-remix now works with both Snap-apps and Flatpak-apps*
+*Note: Yaru-remix now works with both [Snap-apps](https://snapcraft.io/yaru-remix-themes) and [Flatpak-apps](https://github.com/flathub/org.gtk.Gtk3theme.Yaru-remix)*
 
-***IMPORTANT: This repository is being re-organized to reduce it's size. For the moment, please download from [gnome-look.org](https://www.gnome-look.org/p/1384810/).Sorry for the inconvenience will finish it soon!***
+### Simple-Installation:
+- For auto-install using script, please follow instructions from [here](script.md)
 
-### Screenshots
-**Light:**
-![light](screenshots/light.png)
-
-**Standard:**
-![standard](screenshots/default.png)
-
-**Dark:**
-![dark](screenshots/dark.png)
+### Manual-Installation:
+- For **GNOME 40**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-40/install.md)
+- For **Ubuntu 20.10 / GNOME 3.38**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md)
+- For **Ubuntu 20.04 / GNOME 3.36**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-36/install.md).
+- For **Ubuntu 18.04 / GNOME 3.28**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md)
 
