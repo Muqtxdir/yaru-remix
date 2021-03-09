@@ -71,14 +71,10 @@ headerbar *, button * {
   -gtk-icon-shadow: none;
 }
 
-// blue spinner, white spinner for colored buttons
+// blue spinner
 spinner {
   &:not(:backdrop) {
     color: $blue;
-  }
-  button.suggested-action &, button.destructive-action & {
-    color: $selected_fg_color;
-    &:backdrop { color: $backdrop_selected_fg_color; }
   }
 }
 
@@ -208,6 +204,63 @@ menubar,
   border { border: none; }
 }
 
+// Since "we" missed to intoduce a switch color for Adwaita
+// we now need to re-style border and background
+// So it uses thew new switch color variables
+// This really needs an upstream change to remove this code
+
+switch {
+  font-size: 0; // fix for gtk 3.28 switches to not show the on/off label
+
+  &:checked {
+    background-color: $switch_bg_color;
+    &, & slider { border-color: $switch_border_color; }
+
+    &:disabled {
+      color: $insensitive_fg_color;
+      border-color: $borders_color;
+      background-color: $insensitive_bg_color;
+      text-shadow: none;
+
+      & slider { @include button(insensitive); }
+    }
+  }
+
+  &:backdrop {
+    &:checked {
+      background-color: $switch_bg_color;
+      &, & slider { border-color: if($variant=='light', $switch_bg_color, $switch_border_color); }
+
+      @if $variant == 'light' { color: $backdrop_bg_color; }
+
+      &:disabled {
+        color: $backdrop_insensitive_color;
+        border-color: $backdrop_borders_color;
+        background-color: $insensitive_bg_color;
+      }
+    }
+  }
+
+  row:selected:not(:disabled) & {
+    @if $variant == 'light' {
+      border-color: $selected_borders_color;
+
+      &:backdrop { border-color: $selected_borders_color; }
+
+      slider { &:checked { border-color: $switch_border_color; } }
+    }
+    box-shadow: 0 0 0 3px transparentize(white, 0.3);
+  }
+
+  slider {
+    @if $variant == 'light' {
+      @include button(normal-alt, $c: $bg_color, $edge: $shadow_color);
+    }
+  }
+
+  &:disabled:backdrop slider { @include button(backdrop-insensitive); }
+}
+
 // 2 pixel transparentized focus rings
 // upstream is also interested in this
 
@@ -226,6 +279,9 @@ button {
   outline-offset: -2px;
   outline-width: 2px;
   -gtk-outline-radius: $button-radius;
+
+  row:selected & { outline-color: $coloured_focus_border_color; }
+
   &.suggested-action, &.destructive-action{ &, &:hover, &:active { outline-color: $coloured_focus_border_color; } }
 }
 
@@ -234,6 +290,7 @@ switch {
   &:focus {
     box-shadow: 0 0 0 3px if($variant=='light', lighten(opacify($focus_border_color, 1), 20%), $focus_border_color);
   }
+  row:selected & { outline-color: $coloured_focus_border_color; }
 }
 
 checkbutton,
@@ -242,6 +299,16 @@ radiobutton {
   outline-offset: 1px;
   outline-width: 2px;
   row:selected & , treeview:selected & { outline-color: $coloured_focus_border_color; }
+}
+
+row {
+  outline-color: $focus_border_color;
+  outline-offset: -2px;
+  -gtk-outline-radius: 0px;
+
+  &:selected {
+    outline-color: $coloured_focus_border_color;
+  }
 }
 
 treeview {
@@ -260,8 +327,7 @@ notebook > header {
       &, &.right, &.left, &.top, &.bottom {
         background-color: transparent;
         tab {
-          outline-width: 1px;
-          outline-offset: -2px;
+          outline-color: transparent;
           &, &:dir(ltr), &:dir(rtl) {
             &, &:backdrop {
               &, &:checked {
@@ -270,6 +336,7 @@ notebook > header {
                   border-color: transparent;
                 }
               }
+              &:hover:not(:checked):not(:backdrop) { color: $insensitive_fg_color; }
             }
           }
         }
@@ -363,67 +430,6 @@ levelbar {
       border-color: if($variant == 'light', darken($success_color, 20%), $success_color);
       background-color: $success_color;
       &:backdrop { border-color: $success_color; }
-    }
-  }
-}
-
-// Strengthen the menu shadows
-// And lighten up the dark shell menu/popover border to increase visibility
-$_dark_theme_outer_menu_border: lighten(desaturate($base_color, 100%), 14%);
-decoration {
-  .csd.popup & {
-    box-shadow: 0 1px 2px 1px transparentize(black, if($variant=='light', 0.7, 0.6)),
-                0 0 0 1px if($variant=='light', transparentize(black, 0.77), $_dark_theme_outer_menu_border);
-  }
-}
-@if $variant=='dark' {
-  menu separator {
-    background-color: $_dark_theme_outer_menu_border;
-  }
-}
-popover.background {
-  .csd &, & {
-    border-color: if($variant=='light', transparentize(black, 0.77), $_dark_theme_outer_menu_border);
-    &:backdrop { border-color: $backdrop_borders_color; }
-  }
-  @if $variant=='dark' {
-    separator {
-      background-color: $_dark_theme_outer_menu_border;
-    }
-  }  
-}
-// Adapt dark gtk3 scale and levelbar troughs to the shell
-@if $variant=='dark' {
-  scale, progressbar {
-    trough {
-      border-color: $_dark_theme_outer_menu_border;
-      background-color: $_dark_theme_outer_menu_border;
-    }
-    &:backdrop {
-      trough {
-        border-color: darken($_dark_theme_outer_menu_border, 5%);
-        background-color: darken($_dark_theme_outer_menu_border, 5%);
-      }
-    }
-  }
-  levelbar block.empty {
-    border-color: $_dark_theme_outer_menu_border;
-    background-color: $_dark_theme_outer_menu_border;
-    &:backdrop {
-      border-color: darken($_dark_theme_outer_menu_border, 5%);
-      background-color: darken($_dark_theme_outer_menu_border, 5%);
-    }
-  }
-}
-
-// Reduce hyper prominent dark theme check switch border in backdrop
-switch {
-  @if $variant=='dark' {
-    &:not(:checked):not(:backdrop):not(:disabled) { background-color: lighten($bg_color, 5%); }
-  }
-  &:backdrop {
-    &:checked:not(:disabled) {
-      &, slider { border-color: if($variant=='light', $checkradio_borders_color, $backdrop_borders_color); }
     }
   }
 }

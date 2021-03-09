@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=@FlavourThemeName@
+Name=@VariantThemeName@
 Type=X-GNOME-Metatheme
-Comment=Ubuntu @FlavourThemeName@ theme
+Comment=Ubuntu @VariantThemeName@ theme
 Encoding=UTF-8
-GtkTheme=@FlavourThemeName@
+GtkTheme=@VariantThemeName@
 IconTheme=@ThemeName@
 CursorTheme=@ThemeName@
 CursorSize=24

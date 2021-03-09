@@ -21,15 +21,15 @@
   box-shadow: $shadows;
 }
 
-// entries  // Yaru change: we detached focus from selection
+// entries
 @function entry_focus_border($fc:$focus_border_color) {
   @if $variant == 'light' { @return $fc; }
   @else { @return $focus_border_color }
 }
 
-@function entry_focus_shadow($fc:$focus_border_color) { @return inset 0 0 0 1px $fc; }  // Yaru change: we detached focus from selection
+@function entry_focus_shadow($fc:$focus_border_color) { @return inset 0 0 0 1px $fc; }
 
-@mixin entry($t, $fc:$focus_border_color, $edge: none) {  // Yaru change: we detached focus from selection
+@mixin entry($t, $fc:$focus_border_color, $edge: none) {
 //
 // Entries drawing function
 //
@@ -193,14 +193,13 @@
   // normal button
   //
     color: $tc;
-    outline-color: $focus_border_color; // Yaru change: we detached focus from selection
+    outline-color: $focus_border_color;
     border-color: if($c != $bg_color, _border_color($c), $borders_color);
     // border-bottom-color: if($c != $bg_color, _border_color($c, true), $alt_borders_color);
-    // Yaru change: we don't want to use gradients on buttons
     $button_fill: if($c == $bg_color, if($variant == 'light', image(lighten($c, 2%)), image(lighten($c, 4%))), image(lighten($c, 2%))) !global;
     background-image: $button_fill;
     @include _button_text_shadow($tc, $c);
-    @include _shadows(0 1px transparentize(black, 0.95)); // Yaru change: stronger shadows for flatter buttons
+    @include _shadows(0 1px transparentize(black, 0.95));
   }
 
   @else if $t==hover {
@@ -208,7 +207,7 @@
   // hovered button
   //
     color: $tc;
-    outline-color: $focus_border_color; // Yaru change: we detached focus from selection
+    outline-color: $focus_border_color;
     border-color: if($c != $bg_color, _border_color($c), $borders_color);
     border-bottom-color: if($c != $bg_color, _border_color($c, true), $alt_borders_color);
     @if $variant == 'light' {
@@ -221,7 +220,7 @@
       @include _button_text_shadow($tc,lighten($c, 6%));
       @include _shadows(inset 0 1px _button_hilight_color(darken($c, 2%)), $_button_edge, $_button_shadow);
     }
-    box-shadow: 0 1px transparentize(black, if($variant=='light', 0.85, 0.9)); // Yaru change: stronger shadows for flatter buttons
+    box-shadow: 0 1px transparentize(black, if($variant=='light', 0.85, 0.9));
     background-image: if($c == $bg_color, if($variant == 'light', image(lighten($c, 4%)), image(lighten($c, 6%))), image(lighten($c, 4%)));
   }
 
@@ -230,7 +229,7 @@
   // normal button alternative look
   //
     color: $tc;
-    outline-color: $focus_border_color; // Yaru change: we detached focus from selection
+    outline-color: $focus_border_color;
     border-color: if($c != $bg_color, _border_color($c, true), $alt_borders_color);
     @include _button_text_shadow($tc, $c);
     @if $variant == 'light' {
@@ -243,9 +242,8 @@
       @include _shadows(inset 0 1px $_hilight_color,
                         $_button_edge, $_button_shadow);
     }
-    @include _shadows(0 1px transparentize(black, 0.95)); // Yaru change: stronger shadows for flatter buttons
-    background-image: image(if($variant=='light', lighten($c, 10%), $porcelain)); // Yaru change: brighter alt
-    background-clip: padding-box; // Yaru change: fix background overflow
+    box-shadow: 0 1px transparentize(black, 0.95);
+    background-image: image(lighten($c, 10%));
   }
 
   @else if $t==hover-alt {
@@ -253,7 +251,7 @@
   // hovered button alternative look
   //
     color: $tc;
-    outline-color: $focus_border_color; // Yaru change: we detached focus from selection
+    outline-color: $focus_border_color;
     border-color: if($c != $bg_color, _border_color($c, true), $alt_borders_color);
     @if $variant == 'light' {
       $button_fill: linear-gradient(to bottom, lighten($c, 9%) 10%, lighten($c, 4%) 90%) !global;
@@ -265,8 +263,8 @@
       @include _shadows(inset 0 1px $_hilight_color,
                         $_button_edge, $_button_shadow);
     }
-    background-image: image(if($variant=='light', lighten($c, 16%), lighten($warm_gray, 4%))); // Yaru change: brighter alt hover
-    box-shadow: 0 1px transparentize(black, 0.85); // Yaru change: stronger shadows for flatter buttons
+    background-image: image(lighten($c, 6%));
+    box-shadow: 0 1px transparentize(black, 0.85);
   }
 
   @else if $t==active {
@@ -274,7 +272,7 @@
   // pushed button
   //
     color: $tc;
-    outline-color: $focus_border_color; // Yaru change: we detached focus from selection
+    outline-color: $focus_border_color;
     border-color: if($c != $bg_color, _border_color($c), $borders_color);
     $button_fill: if($variant == 'light', image(darken($c, 14%)), image(darken($c, 9%))) !global;
     background-image: $button_fill;
@@ -290,7 +288,8 @@
   //
     $_bg: if($c != $bg_color, mix($c, $base_color, 85%), $insensitive_bg_color);
 
-    color: if($tc != $fg_color, mix($tc, $_bg, 50%), $insensitive_fg_color);
+    label, & { color: if($tc != $fg_color, mix($tc, $_bg, 50%), $insensitive_fg_color); }
+
     border-color: if($c != $bg_color, _border_color($c), $insensitive_borders_color);
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
@@ -308,7 +307,8 @@
     $_bg: if($variant == 'light', darken(mix($c, $base_color, 85%), 8%), darken(mix($c, $base_color, 85%), 6%));
     $_bc: if($c != $bg_color, _border_color($c), $insensitive_borders_color);
 
-    color: if($c != $bg_color, mix($tc, $_bg, 60%), $insensitive_fg_color);
+    label, & { color: if($c != $bg_color, mix($tc, $_bg, 60%), $insensitive_fg_color); }
+
     border-color: $_bc;
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
@@ -324,7 +324,8 @@
     $_bg: if($c != $bg_color, $c, $backdrop_bg_color);
     $_bc: if($variant == 'light', $c, _border_color($c));
 
-    color: if($tc != $fg_color, mix($tc, $_bg, 80%), $backdrop_fg_color);
+    label, & { color: if($tc != $fg_color, mix($tc, $_bg, 80%), $backdrop_fg_color); }
+
     border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
@@ -340,7 +341,8 @@
     $_bg: if($variant == 'light', darken(mix($c, $base_color, 85%), 8%), darken(mix($c, $base_color, 85%), 4%));
     $_bc: if($variant == 'light', $_bg ,_border_color($c));
 
-    color: if($tc != $fg_color, mix($tc, $_bg, 80%), $backdrop_fg_color);
+    label, & { color: if($tc != $fg_color, mix($tc, $_bg, 80%), $backdrop_fg_color); }
+
     border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
@@ -352,10 +354,11 @@
   // backdrop insensitive button
   //
 
-    $_bg: if($c != $bg_color, mix($c, $base_color, 85%), if($variant=='light', $insensitive_bg_color, lighten($insensitive_bg_color, 3%))); // Yaru change
+    $_bg: if($c != $bg_color, mix($c, $base_color, 85%), $insensitive_bg_color);
     $_bc: if($variant == 'light', $_bg,_border_color($c));
 
-    color: if($c != $bg_color, mix($tc, $_bg, 35%), $backdrop_insensitive_color);
+    label, & { color: if($c != $bg_color, mix($tc, $_bg, 35%), $backdrop_insensitive_color); }
+
     border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
@@ -374,7 +377,8 @@
     $_bg: if($variant == 'light', darken(mix($c, $base_color, 85%), 8%), darken(mix($c, $base_color, 85%), 4%));
     $_bc: if($variant == 'light', $_bg, _border_color($c));
 
-    color: if($c != $bg_color, mix($tc, $_bg, 35%), $backdrop_insensitive_color);
+    label { color: if($c != $bg_color, mix($tc, $_bg, 35%), $backdrop_insensitive_color); }
+
     border-color: if($c != $bg_color, $_bc, $backdrop_borders_color);
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
@@ -385,7 +389,7 @@
   //
   // normal osd button
   //
-    $_bg: if($c != $bg_color, transparentize($c, 0.5), lighten($osd_bg_color, 9%)); // Yaru change: make osd buttons visible
+    $_bg: if($c != $bg_color, transparentize($c, 0.5), lighten($osd_bg_color, 9%));
 
     color: $osd_fg_color;
     border-color: $osd_borders_color;
@@ -393,7 +397,7 @@
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
     background-clip: padding-box;
-    // box-shadow: inset 0 1px transparentize(white, 0.9); // Yaru change: remove the shadow
+    // box-shadow: inset 0 1px transparentize(white, 0.9);
     text-shadow: 0 1px black;
     -gtk-icon-shadow: 0 1px black;
     outline-color: transparentize($osd_fg_color, 0.7);
@@ -411,7 +415,7 @@
     $button_fill: image($_bg) !global;
     background-image: $button_fill;
     background-clip: padding-box;
-    // box-shadow: inset 0 1px transparentize(white, 0.9); // Yaru change: remove the shadow
+    // box-shadow: inset 0 1px transparentize(white, 0.9);
     text-shadow: 0 1px black;
     -gtk-icon-shadow: 0 1px black;
     outline-color: transparentize($osd_fg_color, 0.7);
@@ -491,9 +495,9 @@
 // $hc: top highlight color
 // $ov: a background layer for background shorthand (hence no commas!)
 //
-  $gradient: linear-gradient(to top, darken($c, 0%), lighten($c, 0%)); // Yaru change: no gradients
+  $gradient: linear-gradient(to top, darken($c, 0%), lighten($c, 0%));
 
-  @if $variant == 'dark' { $gradient: linear-gradient(to top, lighten($c, 6%), lighten($c, 6%)); } // Yaru change: no gradients
+  @if $variant == 'dark' { $gradient: linear-gradient(to top, lighten($c, 3%), lighten($c, 3%)); }
 
   @if $ov != none { background: $c $ov, $gradient; }
   @else { background: $c $gradient; }
@@ -598,7 +602,7 @@
   $_border_color: if($c==$checkradio_bg_color, $c, $alt_borders_color);
   $_dim_border_color: transparentize($_border_color, if($variant == 'light', 0.3, 0.7));
 
-  @if $t==normal  { // Yaru change: no gradients, better borders
+  @if $t==normal  {
     background-clip: if($checked, border-box, padding-box);
     background-image: image(lighten($c, if($variant=='dark', if($c==$checkradio_bg_color, 0%, 5%), 0%)));
     border-color: $_border_color;
@@ -638,3 +642,4 @@
     background-image: image($insensitive_bg_color);
   }
 }
+
