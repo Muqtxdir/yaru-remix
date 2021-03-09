@@ -24,3 +24,21 @@ Yaru-remix includes:
 - For **Ubuntu 20.04 / GNOME 3.36**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-36/install.md).
 - For **Ubuntu 18.04 / GNOME 3.28**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md)
 
+### Screenshots:
+
+- **GNOME 40** default:
+
+![default](.github/docs/40-default.png)
+
+- **GNOME 40** light:
+
+![light](.github/docs/40-light.png)
+
+- **GNOME 40** dark:
+
+![dark](.github/docs/40-dark.png)
+
+
+
+
+
