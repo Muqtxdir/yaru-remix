@@ -28,6 +28,11 @@ git clone https://github.com/Muqtxdir/yaru-remix.git
 ```
 
 ```bash
+#switch to gnome-40 branch
+git switch gnome-40
+```
+
+```bash
 cd yaru-remix
 ```
 
@@ -51,7 +56,7 @@ sudo snap install yaru-remix-themes
 ```bash
 # Apply Yaru-remix GTK2 for GTK2-snaps (need to be done everytime you install a new GTK2-snap app)
 
-for i in $(snap connections | grep gtk-common-themes:gtk-2-themes | awk '{print $2}'); do sudo snap connect $i yaru-colors:gtk-2-themes; done
+for i in $(snap connections | grep gtk-common-themes:gtk-2-themes | awk '{print $2}'); do sudo snap connect $i yaru-remix:gtk-2-themes; done
 ```
 
 ```bash

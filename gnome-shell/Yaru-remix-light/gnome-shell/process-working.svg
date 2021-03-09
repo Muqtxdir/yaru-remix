@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg5369"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    width="512"
    height="32"
    sodipodi:docname="process-working.svg"
@@ -23,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1903,11 +1905,11 @@
        inkscape:collect="always"
        id="linearGradient5747">
       <stop
-         style="stop-color:#3d3d3d;stop-opacity:1"
+         style="stop-color:#f7f7f7;stop-opacity:1"
          offset="0"
          id="stop5743" />
       <stop
-         style="stop-color:#3d3d3d;stop-opacity:0"
+         style="stop-color:#f7f7f7;stop-opacity:0"
          offset="1"
          id="stop5745" />
     </linearGradient>
@@ -3823,7 +3825,7 @@
        y2="89.196152" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#808080"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -3831,14 +3833,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1464"
-     inkscape:window-height="800"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
      id="namedview5371"
      showgrid="true"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:zoom="16"
-     inkscape:cx="254.80191"
+     inkscape:cx="478.36466"
      inkscape:cy="-0.84615683"
      inkscape:window-x="72"
      inkscape:window-y="27"
@@ -3847,8 +3849,7 @@
      inkscape:snap-bbox="true"
      inkscape:snap-nodes="false"
      showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:document-rotation="0">
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid11933"
