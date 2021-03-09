@@ -43,7 +43,7 @@ chmod +x uninstall.sh
 - Restart to remove yaru-remix
 
 **tested on:**
-Arch Linux, Debian 10, Debian sid, Fedora 33, Fedora 32, Manjaro Linux 20.2, Pop!-OS 20.10, Pop!-OS 20.04, Ubuntu 20.10, Ubuntu 20.04, Ubuntu 18.04
+Arch Linux, Debian 10, Debian sid, Fedora 34, Fedora 33, Fedora 32, Manjaro Linux 20.2, Pop!-OS 20.10, Pop!-OS 20.04, Ubuntu 21.04, Ubuntu 20.10, Ubuntu 20.04, Ubuntu 18.04
 
 
 

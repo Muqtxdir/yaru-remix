@@ -6,7 +6,7 @@
 Yaru-remix is a fork of [Yaru](https://github.com/ubuntu/yaru) theme.
 
 Yaru-remix includes:
-- [Yaru-remix GTK themes](GTK2, GTK3, GTK4) 
+- [Yaru-remix GTK themes](gtk)
 - [Yaru-remix Gnome-Shell themes](gnome-shell)
 - Ubuntu-dock theme (indicators)
 - [Yaru-remix icons and cursors](icons)
