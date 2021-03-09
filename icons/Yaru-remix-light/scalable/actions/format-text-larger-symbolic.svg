@@ -1,0 +1,11 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Pop Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-265 -5.0033)" fill="#808080">
+  <path d="m272 6.0029-5 14h2.5l1.0625-3h4.875l1.0625 3h2.7812l-5.2812-14zm1 4 1.75 5h-3.5z" fill="#808080"/>
+ </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Pop Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="matrix(-.16667 0 0 .16667 4.6905 -13.084)">
+  <g transform="matrix(0 -1 -1 0 373.51 516.51)">
+   <g transform="matrix(-.9996 0 0 1 575.94 -611)">
+    <g transform="matrix(-1 0 0 1 576 611)">
+     <rect transform="scale(-1,1)" x="-438" y="345.36" width="96.038" height="96" color="#000000" enable-background="accumulate" fill="none"/>
+     <g fill="#808080">
+      <path transform="matrix(0 -1 -1.0004 0 438 441.36)" d="m44.934 23.953c1e-5 0-22.877 10.754-42.896 27.047h-0.00781c-9e-3 7e-3 -0.019997 0.01379-0.029297 0.02148h0.00586v2e-3h-0.00586c9e-3 7e-3 0.020097 0.01429 0.029297 0.02148h0.00781c20.02 16.293 42.896 27 42.896 27v-0.04496h49.066v-26.955-0.044922-27h-49.066v-0.04492-2e-3zm0.9043 4.0703h44.139v22.977 0.04492 22.934h-44.139c-1.1646-0.55222-19.204-9.3696-37.035-22.957 17.83-13.592 35.863-22.44 37.035-22.998z" color="#000000" enable-background="accumulate"/>
+      <path d="m373.8 359.36-2.8281 2.8301 28.184 28.172 2.8281-2.8301z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+      <path d="m399.16 359.36-28.184 28.172 2.8281 2.8301 28.184-28.172z" color="#000000" color-rendering="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Pop Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(0 -.01)" color="#000000" fill="#808080">
+  <path d="m8.182 1.004a6.99 6.99 0 0 0-6.248 3.492c-1.929 3.343-0.776 7.63 2.57 9.563s7.634 0.792 9.562-2.551c1.929-3.343 0.776-7.633-2.57-9.567a6.98 6.98 0 0 0-3.314-0.937zm-0.182 0.996a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" font-family="sans-serif" font-weight="400" overflow="visible" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:none;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+  <path d="m6.69 0.122v1.545a6.485 6.485 0 0 1 2.632 5e-3v-1.55zm-2.753 0.99-2.007 1.703 0.988 1.178a6.466 6.466 0 0 1 2.017-1.691zm8.128 0.012-0.993 1.183 0.17 0.09a6.5 6.5 0 0 1 1.845 1.604l1.006-1.198zm-11.61 4.216-0.44 2.595 1.515 0.267a6.477 6.477 0 0 1 0.455-2.592zm15.086 3e-3 -1.523 0.268c0.33 0.823 0.488 1.705 0.464 2.591l1.533-0.27zm-13.683 4.695-1.351 0.78 1.33 2.272 1.339-0.773a6.498 6.498 0 0 1-1.318-2.279zm12.301 3e-3a6.47 6.47 0 0 1-0.535 1.215c-0.22 0.382-0.48 0.74-0.773 1.07l1.338 0.772 1.302-2.288zm-9.557 3.472-0.534 1.469 2.48 0.884 0.525-1.445a6.495 6.495 0 0 1-2.303-0.8 6.464 6.464 0 0 1-0.168-0.108zm6.814 0.015a6.473 6.473 0 0 1-2.475 0.898l0.53 1.456 2.468-0.916z" overflow="visible"/>
+  <path d="m7.648 3.014a4.989 4.989 0 0 0-3.982 2.482 5.013 5.013 0 0 0 1.836 6.834 5.002 5.002 0 0 0 6.83-1.826 5.01 5.01 0 0 0-1.836-6.832 4.976 4.976 0 0 0-2.848-0.658zm0.352 0.986a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" font-family="sans-serif" font-weight="400" overflow="visible" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:none;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

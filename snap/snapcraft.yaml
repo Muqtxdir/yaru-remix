@@ -1,0 +1,63 @@
+name: yaru-remix-themes
+version: "20.10.3.1"
+base: core20
+architectures:
+  - all
+summary: Yaru-remix GTK and icon themes
+description: |
+  A snap that exports the Yaru-remix GTK and icon themes.
+
+grade: stable
+confinement: strict
+
+slots:
+  gtk-2-themes:
+    interface: content
+    source:
+      read:
+        - $SNAP/share/gtk2/Yaru-remix
+        - $SNAP/share/gtk2/Yaru-remix-light
+        - $SNAP/share/gtk2/Yaru-remix-dark
+  gtk-3-themes:
+    interface: content
+    source:
+      read:
+        - $SNAP/share/themes/Yaru-remix
+        - $SNAP/share/themes/Yaru-remix-light
+        - $SNAP/share/themes/Yaru-remix-dark
+  icon-themes:
+    interface: content
+    source:
+      read:
+        - $SNAP/share/icons/Yaru-remix
+        - $SNAP/share/icons/Yaru-remix-light
+        - $SNAP/share/icons/Yaru-remix-dark
+
+parts: 
+  yaru-remix-theme:
+    after: [utils]
+    source: https://github.com/Muqtxdir/yaru-remix.git
+    source-branch: snap
+    source-depth: 1
+    plugin: meson
+    meson-parameters: ["--prefix=/"]
+    build-packages:
+      - sassc
+      - libgtk-3-dev
+    override-build: |
+      snapcraftctl build
+      $SNAPCRAFT_STAGE/update-icon-cache.sh $SNAPCRAFT_PART_INSTALL/share/icons
+      $SNAPCRAFT_STAGE/split-gtk-theme.sh $SNAPCRAFT_PART_INSTALL
+    stage:
+      - share/icons
+      - share/gtk2
+      - share/themes
+      
+  utils:
+    plugin: dump
+    source: utils
+    prime:
+      - -*
+    build-packages:
+      - try: [gtk-update-icon-cache]
+      - else: [libgtk-3-bin]

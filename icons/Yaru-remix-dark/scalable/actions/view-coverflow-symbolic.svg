@@ -1,0 +1,17 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Pop Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-625 -24.997)" fill="#808080">
+  <g>
+   <rect x="626" y="27.996" width="1" height="10" ry=".037698" color="#bebebe" enable-background="accumulate"/>
+   <rect x="628" y="28.996" width="1" height="8" ry="0" color="#bebebe" enable-background="accumulate"/>
+   <rect x="637" y="28.996" width="1" height="8" ry="0" color="#bebebe" enable-background="accumulate"/>
+   <rect x="639" y="27.996" width="1" height="10" ry="0" color="#bebebe" enable-background="accumulate"/>
+  </g>
+  <rect x="630" y="30" width="6" height="6" ry="1" enable-background="new"/>
+ </g>
+</svg>

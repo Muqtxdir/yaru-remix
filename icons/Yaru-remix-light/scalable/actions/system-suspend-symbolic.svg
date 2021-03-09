@@ -1,0 +1,18 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Pop Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="matrix(.16667 0 0 .16667 11.31 -13.084)">
+  <g transform="matrix(0 -1 -1 0 373.51 516.51)">
+   <g transform="matrix(-.9996 0 0 1 575.94 -611)">
+    <g transform="matrix(-1 0 0 1 576 611)">
+     <rect transform="scale(-1,1)" x="-438" y="345.36" width="96.038" height="96" color="#000000" enable-background="accumulate" fill="none"/>
+     <path d="m432 382.35c-9.3835-7.6616-21.874-10.353-33.582-7.2363-20.132 5.392-32.082 26.076-26.688 46.199 1.3948 5.1407 3.8641 9.9263 7.2431 14.045-14.43-4.1482-25.636-15.537-29.543-30.029-6.1275-22.86 7.4442-46.359 30.313-52.484 22.551-6.0278 45.779 7.0887 52.257 29.506zm-9.0954-9.7422c-7.6173-11.309-20.634-18.024-34.451-17.156-2.5468 0.16001-5.1176 0.57321-7.6788 1.2578-20.777 5.5663-33.045 26.81-27.482 47.578 2.5103 9.3121 8.3804 17.15 16.219 22.299-0.55275-1.4082-1.2454-2.7582-1.6432-4.2246l-2e-3 -6e-3v-6e-3c-5.954-22.213 7.2963-45.148 29.516-51.1l2e-3 -2e-3h4e-3c8.544-2.2745 17.451-1.6959 25.516 1.3594z" color="#000000" enable-background="accumulate" fill="#808080"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,1 @@
+../../src/cursors/render-cursors.py

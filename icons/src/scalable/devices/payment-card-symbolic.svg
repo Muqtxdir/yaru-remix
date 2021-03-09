@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="payment-card-symbolic.svg.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1836"
+     inkscape:window-height="1016"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="53.875"
+     inkscape:cx="12.760911"
+     inkscape:cy="8"
+     inkscape:window-x="84"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g910"
+     transform="translate(0.5)">
+    <g
+       color="#000000"
+       fill="#808080"
+       font-family="sans-serif"
+       font-weight="400"
+       white-space="normal"
+       id="g6">
+      <path
+         d="M 3.994,3 C 2.736,3.015 1.815,2.97 1.062,3.385 A 1.88,1.88 0 0 0 0.225,4.383 C 0.06,4.821 0,5.343 0,6 v 5 c 0,0.658 0.06,1.179 0.225,1.617 0.164,0.439 0.461,0.79 0.837,0.998 0.753,0.416 1.674,0.37 2.932,0.385 h 7.012 c 1.258,-0.015 2.179,0.03 2.932,-0.385 a 1.88,1.88 0 0 0 0.838,-0.998 C 14.94,12.179 15,11.657 15,11 V 6 C 15,5.342 14.94,4.821 14.775,4.383 A 1.88,1.88 0 0 0 13.938,3.385 C 13.185,2.969 12.264,3.015 11.006,3 H 3.998 Z M 4,4 h 7 c 1.259,0.015 2.087,0.06 2.453,0.262 0.184,0.1 0.29,0.212 0.387,0.472 C 13.937,4.994 14,5.408 14,6 v 5 c 0,0.592 -0.063,1.006 -0.16,1.266 -0.098,0.26 -0.203,0.371 -0.387,0.472 C 13.087,12.94 12.259,12.985 11,13 H 4 C 2.741,12.985 1.913,12.94 1.547,12.738 1.363,12.638 1.257,12.526 1.16,12.266 1.063,12.006 1,11.592 1,11 V 6 C 1,5.408 1.063,4.994 1.16,4.734 1.258,4.474 1.363,4.363 1.547,4.262 1.913,4.06 2.741,4.015 4,4 Z"
+         overflow="visible"
+         style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;marker:none"
+         id="path2" />
+    </g>
+    <path
+       d="m 0.08110466,5.2004523 v 2 H 14.655558 v -2 z"
+       fill="#808080"
+       font-family="sans-serif"
+       font-weight="400"
+       overflow="visible"
+       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;stroke-width:1.4974"
+       color="#000000"
+       id="path2-3"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       d="M 0.02876097,8.1658626 V 10.165863 H 10.028761 V 8.1658626 Z"
+       fill="#808080"
+       font-family="sans-serif"
+       font-weight="400"
+       overflow="visible"
+       style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;stroke-width:1.41421"
+       color="#000000"
+       id="path2-7" />
+    <path
+       id="path2-5"
+       style="fill:#808080;fill-opacity:1;marker:none"
+       d="m 12.467213,8.166 a 1,1 0 0 0 0,2 1,1 0 0 0 0,-2 z" />
+  </g>
+</svg>

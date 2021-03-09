@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   id="svg7384"
+   style="enable-background:new"
+   version="1.1"
+   width="16"
+   sodipodi:docname="application-menu-symbolic.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1836"
+     inkscape:window-height="1016"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="53.875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="84"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Pop Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient6882"
+       osb:paint="solid">
+      <stop
+         id="stop6884"
+         offset="0"
+         style="stop-color:#555555;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5606"
+       osb:paint="solid">
+      <stop
+         id="stop5608"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <g
+     id="layer9"
+     style="display:inline"
+     transform="translate(-744.9379,95.284607)" />
+  <g
+     id="layer10"
+     style="display:inline;filter:url(#filter7554)"
+     transform="translate(-744.9379,95.284607)" />
+  <g
+     id="layer1"
+     style="display:inline"
+     transform="translate(-503.9377,-521.71539)" />
+  <g
+     id="layer14"
+     style="display:inline"
+     transform="translate(-744.9379,95.284607)" />
+  <g
+     id="layer15"
+     style="display:inline"
+     transform="translate(-744.9379,95.284607)" />
+  <g
+     id="g71291"
+     style="display:inline"
+     transform="translate(-744.9379,95.284607)" />
+  <g
+     id="layer2"
+     style="display:inline"
+     transform="translate(-503.9377,-371.71539)" />
+  <g
+     id="layer3"
+     transform="translate(-503.9377,-631.71539)" />
+  <g
+     color="#000000"
+     fill="#808080"
+     id="g8"
+     transform="translate(0,-0.01)">
+    <path
+       d="M 8.182,1.004 A 6.99,6.99 0 0 0 1.934,4.496 c -1.929,3.343 -0.776,7.63 2.57,9.563 3.346,1.933 7.634,0.792 9.562,-2.551 1.929,-3.343 0.776,-7.633 -2.57,-9.567 A 6.98,6.98 0 0 0 8.182,1.004 Z M 8,2 A 6,6 0 0 1 14,8 6,6 0 0 1 8,14 6,6 0 0 1 2,8 6,6 0 0 1 8,2 Z"
+       style="line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;marker:none"
+       font-weight="400"
+       font-family="sans-serif"
+       overflow="visible"
+       id="path2" />
+    <path
+       d="M 6.69,0.122 V 1.667 A 6.485,6.485 0 0 1 9.322,1.672 V 0.122 Z M 3.937,1.112 1.93,2.815 2.918,3.993 A 6.466,6.466 0 0 1 4.935,2.302 Z m 8.128,0.012 -0.993,1.183 0.17,0.09 a 6.5,6.5 0 0 1 1.845,1.604 L 14.093,2.803 Z M 0.455,5.34 0.015,7.935 1.53,8.202 A 6.477,6.477 0 0 1 1.985,5.61 Z m 15.086,0.003 -1.523,0.268 c 0.33,0.823 0.488,1.705 0.464,2.591 l 1.533,-0.27 z m -13.683,4.695 -1.351,0.78 1.33,2.272 1.339,-0.773 A 6.498,6.498 0 0 1 1.858,10.038 Z m 12.301,0.003 a 6.47,6.47 0 0 1 -0.535,1.215 c -0.22,0.382 -0.48,0.74 -0.773,1.07 l 1.338,0.772 1.302,-2.288 z m -9.557,3.472 -0.534,1.469 2.48,0.884 0.525,-1.445 A 6.495,6.495 0 0 1 4.77,13.621 6.464,6.464 0 0 1 4.602,13.513 Z m 6.814,0.015 a 6.473,6.473 0 0 1 -2.475,0.898 l 0.53,1.456 2.468,-0.916 z"
+       style="marker:none"
+       overflow="visible"
+       id="path4" />
+    <path
+       d="M 7.648,3.014 A 4.989,4.989 0 0 0 3.666,5.496 5.013,5.013 0 0 0 5.502,12.33 5.002,5.002 0 0 0 12.332,10.504 5.01,5.01 0 0 0 10.496,3.672 4.976,4.976 0 0 0 7.648,3.014 Z M 8,4 A 4,4 0 0 1 12,8 4,4 0 0 1 8,12 4,4 0 0 1 4,8 4,4 0 0 1 8,4 Z"
+       style="line-height:normal;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;marker:none"
+       font-weight="400"
+       font-family="sans-serif"
+       overflow="visible"
+       id="path6" />
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+option('icons', type: 'boolean', value: true, description:'build icons component')
+option('gnome-shell', type: 'boolean', value: true, description:'build gnome-shell component')
+option('gresource', type: 'boolean', value: true, description:'build gnome-shell gresource component')
+option('gtk', type: 'boolean', value: true, description:'build gtk component')
+option('wallpapers', type: 'boolean', value: true, description:'copy wallpapers')
+
+option('metacity', type: 'boolean', value: true, description:'build metacity component')
+option('default', type: 'boolean', value: true, description:'build Yaru-remix gtk default flavour')
+option('dark', type: 'boolean', value: true, description:'build Yaru-remix gtk dark flavour')
+option('light', type: 'boolean', value: true, description:'build Yaru-remix gtk light flavour')
+option('ubuntu-unity', type: 'boolean', value: false, description:'build Yaru-remix with Unity assets')

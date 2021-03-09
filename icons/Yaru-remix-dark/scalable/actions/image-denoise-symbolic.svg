@@ -1,0 +1,29 @@
+<svg enable-background="new" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <title>Pop Symbolic Icon Theme</title>
+ <defs>
+  <filter color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-685 75)" fill="#808080">
+  <rect x="686" y="-74" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="688" y="-74" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="690" y="-74" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="690" y="-72" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="688" y="-70" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="686" y="-68" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="688" y="-66" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="690" y="-68" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="692" y="-70" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="694" y="-70" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="694" y="-74" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="696" y="-72" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="696" y="-66" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="692" y="-64" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="694" y="-62" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="688" y="-62" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="698" y="-64" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="698" y="-62" width="2" height="2" color="#000000" enable-background="new"/>
+  <rect x="698" y="-62" width="2" height="2" color="#000000" enable-background="new"/>
+ </g>
+</svg>
