@@ -20,7 +20,7 @@ Yaru-remix includes:
 
 ### Manual-Installation:
 - For **GNOME 40**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-40/install.md)
-- For **Ubuntu 20.10 / GNOME 3.38**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md)
+- For **Ubuntu 20.10 / GNOME 3.38**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-38/install.md)
 - For **Ubuntu 20.04 / GNOME 3.36**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-36/install.md).
 - For **Ubuntu 18.04 / GNOME 3.28**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md)
 
