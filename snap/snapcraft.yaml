@@ -1,5 +1,5 @@
 name: yaru-remix-themes
-version: "20.10.3.1"
+version: "21.04.1"
 base: core20
 architectures:
   - all

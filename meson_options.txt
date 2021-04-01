@@ -1,7 +1,6 @@
 option('icons', type: 'boolean', value: true, description:'build icons component')
 option('gtk', type: 'boolean', value: true, description:'build gtk component')
 
-option('metacity', type: 'boolean', value: true, description:'build metacity component')
 option('default', type: 'boolean', value: true, description:'build Yaru-remix gtk default flavour')
 option('dark', type: 'boolean', value: true, description:'build Yaru-remix gtk dark flavour')
 option('light', type: 'boolean', value: true, description:'build Yaru-remix gtk light flavour')
