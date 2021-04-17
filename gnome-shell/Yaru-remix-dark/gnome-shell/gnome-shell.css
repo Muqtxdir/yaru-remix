@@ -1372,7 +1372,7 @@ StScrollBar {
 .window-caption {
   color: #eeeeec;
   background-color: rgba(29, 29, 29, 0.975);
-  border-radius: 99px;
+  border-radius: 5px;
   padding: 6px 12px; }
 
 .window-close {
