@@ -1,5 +1,6 @@
 option('icons', type: 'boolean', value: true, description:'build icons component')
 option('gnome-shell', type: 'boolean', value: true, description:'build gnome-shell component')
+option('gresource', type: 'boolean', value: true, description:'build gnome-shell gresource component')
 option('gtk', type: 'boolean', value: true, description:'build gtk component')
 option('wallpapers', type: 'boolean', value: true, description:'copy wallpapers')
 
