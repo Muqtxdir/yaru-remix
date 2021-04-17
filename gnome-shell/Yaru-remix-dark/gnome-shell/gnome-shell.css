@@ -213,7 +213,7 @@ StEntry {
   -slider-handle-radius: 7.5px;
   -slider-handle-border-width: 1px;
   -slider-handle-border-color: black;
-  color: #white; }
+  color: white; }
   .slider:hover {
     color: rgba(247, 247, 247, 0.1); }
   .slider:active {
