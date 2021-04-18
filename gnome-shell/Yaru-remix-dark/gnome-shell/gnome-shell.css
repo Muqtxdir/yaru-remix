@@ -1108,8 +1108,8 @@ StScrollBar {
   .osd-window .osd-monitor-label {
     font-size: 3em; }
   .osd-window .level {
-    height: 8px;
-    -barlevel-height: 8px;
+    height: 5px;
+    -barlevel-height: 5px;
     -barlevel-background-color: rgba(238, 238, 236, 0.1);
     -barlevel-active-background-color: #eeeeec;
     -barlevel-overdrive-color: #991121;
